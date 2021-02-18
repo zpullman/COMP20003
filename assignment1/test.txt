@@ -1,0 +1,1000 @@
+1,A Dijiang,M,24,180,80,China,CHN,1992 Summer,1992,Summer,Barcelona,Basketball,Basketball Men's Basketball,NA
+2,A Lamusi,M,23,170,60,China,CHN,2012 Summer,2012,Summer,London,Judo,Judo Men's Extra-Lightweight,NA
+76959,A. Aanantha Sambu Mayavo,M,26,NA,NA,Malaysia,MAS,1992 Summer,1992,Summer,Barcelona,Hockey,Hockey Men's Hockey,NA
+300,A. Abdul Razzak,M,NA,178,70,Iraq,IRQ,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Long Jump,NA
+300,A. Abdul Razzak,M,NA,178,70,Iraq,IRQ,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Triple Jump,NA
+2316,A. Albert,M,NA,NA,NA,Union des Socits Franais de Sports Athletiques,FRA,1900 Summer,1900,Summer,Paris,Rugby,Rugby Men's Rugby,Gold
+15740,A. Brun,F,NA,NA,NA,France,FRA,1900 Summer,1900,Summer,Paris,Golf,Golf Women's Individual,NA
+16990,A. Buydens,M,NA,NA,NA,Belgium,BEL,1924 Summer,1924,Summer,Paris,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,NA
+111485,A. Charles Six,M,NA,NA,NA,France,FRA,1928 Summer,1928,Summer,Amsterdam,Hockey,Hockey Men's Hockey,NA
+21337,A. Christory,M,NA,NA,NA,France,FRA,1924 Summer,1924,Summer,Paris,Art Competitions,Art Competitions Mixed Literature,NA
+25390,A. Darnis,M,NA,NA,NA,France,FRA,1900 Summer,1900,Summer,Paris,Shooting,Shooting Men's Trap,NA
+26596,A. de Romigny,M,NA,NA,NA,France,FRA,1900 Summer,1900,Summer,Paris,Fencing,Fencing Men's epee Individual,NA
+30274,A. Dubois,M,NA,NA,NA,Gitana-21,FRA,1900 Summer,1900,Summer,Paris,Sailing,Sailing Mixed Open,NA
+30274,A. Dubois,M,NA,NA,NA,Gitana-2,FRA,1900 Summer,1900,Summer,Paris,Sailing,Sailing Mixed 3-10 Ton,Bronze
+30274,A. Dubois,M,NA,NA,NA,Gitana-2,FRA,1900 Summer,1900,Summer,Paris,Sailing,Sailing Mixed 3-10 Ton,Silver
+30732,A. Duponcheel,M,NA,NA,NA,France,FRA,1908 Summer,1908,Summer,London,Gymnastics,Gymnastics Men's Team All-Around,NA
+90541,A. E. Page,M,NA,NA,NA,Great Britain,GBR,1920 Summer,1920,Summer,Antwerpen,Gymnastics,Gymnastics Men's Team All-Around,NA
+108221,A. efik,M,NA,NA,NA,Turkey,TUR,1928 Summer,1928,Summer,Amsterdam,Wrestling,Wrestling Men's Light-Heavyweight Greco-Roman,NA
+19555,A. G. Chagale,M,NA,NA,NA,India,IND,1948 Summer,1948,Summer,London,Art Competitions,Art Competitions Mixed Painting Paintings,NA
+41122,A. Germaine Golding (Regnier-),F,NA,NA,NA,France,FRA,1924 Summer,1924,Summer,Paris,Tennis,Tennis Women's Singles,NA
+41122,A. Germaine Golding (Regnier-),F,NA,NA,NA,France-1,FRA,1924 Summer,1924,Summer,Paris,Tennis,Tennis Women's Doubles,NA
+40972,A. Godinat,M,NA,NA,NA,France,FRA,1924 Summer,1924,Summer,Paris,Art Competitions,Art Competitions Mixed Literature,NA
+51162,A. Hurtado Vargas,M,NA,NA,NA,Chile,CHI,1948 Summer,1948,Summer,London,Water Polo,Water Polo Men's Water Polo,NA
+1399,A. Hussain Ahmed,M,NA,NA,NA,India,IND,1956 Summer,1956,Summer,Melbourne,Football,Football Men's Football,NA
+37167,A. J. J. Fridt,M,NA,NA,NA,Ubu,BEL,1928 Summer,1928,Summer,Amsterdam,Sailing,Sailing Mixed 6 metres,NA
+34903,A. J. Tyronne Benildus Fernando,M,27,179,70,Sri Lanka,SRI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Long Jump,NA
+129771,A. Joshua West,M,27,207,105,Great Britain,GBR,2004 Summer,2004,Summer,Athina,Rowing,Rowing Men's Coxed Eights,NA
+129771,A. Joshua West,M,31,207,105,Great Britain,GBR,2008 Summer,2008,Summer,Beijing,Rowing,Rowing Men's Coxed Eights,Silver
+62752,A. Kordonis,M,NA,NA,NA,Phalainis ton Thorichtou-3,GRE,1906 Summer,1906,Summer,Athina,Rowing,Rowing Men's 6-Man Naval Rowing Boats,NA
+65813,A. Laffen,M,NA,NA,NA,Unknown,UNK,1912 Summer,1912,Summer,Stockholm,Art Competitions,Art Competitions Mixed Architecture,NA
+65833,A. Lafontaine,M,NA,NA,NA,France,FRA,1900 Summer,1900,Summer,Paris,Fencing,Fencing Men's epee Individual,NA
+66182,A. Lambrecht Jr.,M,NA,NA,NA,Belgium,BEL,1928 Summer,1928,Summer,Amsterdam,Rowing,Rowing Men's Coxed Eights,NA
+67346,A. Lawry,M,NA,NA,NA,Cornwall,GBR,1908 Summer,1908,Summer,London,Rugby,Rugby Men's Rugby,Silver
+131535,A. M. Woods,M,NA,NA,NA,St. Louis Amateur Athletic Association,USA,1904 Summer,1904,Summer,St. Louis,Lacrosse,Lacrosse Men's Lacrosse,Silver
+95005,A. O. Pinner,M,NA,NA,NA,Great Britain,GBR,1920 Summer,1920,Summer,Antwerpen,Gymnastics,Gymnastics Men's Team All-Around,NA
+91184,A. Papadakis,M,NA,NA,NA,Greece,GRE,1906 Summer,1906,Summer,Athina,Athletics,Athletics Men's 100 metres,NA
+96248,A. Porcher,M,NA,NA,NA,France,FRA,1900 Summer,1900,Summer,Paris,Cycling,Cycling Men's Sprint,NA
+96248,A. Porcher,M,NA,NA,NA,France,FRA,1900 Summer,1900,Summer,Paris,Cycling,Cycling Men's 25 kilometres,NA
+96991,A. Priftis,M,NA,NA,NA,Greece,GRE,1906 Summer,1906,Summer,Athina,Athletics,Athletics Men's Long Jump,NA
+123394,A. R. Upton,M,NA,NA,NA,Brussels Swimming and Water Polo Club,BEL,1900 Summer,1900,Summer,Paris,Water Polo,Water Polo Men's Water Polo,Silver
+101933,A. Roger,M,NA,NA,NA,France,FRA,1900 Summer,1900,Summer,Paris,Cycling,Cycling Men's Sprint,NA
+46072,A. S. Harley,M,NA,NA,NA,Great Britain,GBR,1908 Summer,1908,Summer,London,Gymnastics,Gymnastics Men's Team All-Around,NA
+8423,A. Sattar Basheer,M,NA,NA,NA,India,IND,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+107183,A. Schmitt,M,NA,NA,NA,Switzerland,SUI,1924 Summer,1924,Summer,Paris,Art Competitions,Art Competitions Mixed Literature,NA
+31619,A. Tark Erilmez,M,NA,NA,NA,Turkey,TUR,1948 Summer,1948,Summer,London,Art Competitions,Art Competitions Mixed Architecture Unknown Event,NA
+122152,A. Tryfiatis-Trypiapis,M,NA,NA,NA,Greece,GRE,1896 Summer,1896,Summer,Athina,Cycling,Cycling Men's 12-Hours Race,NA
+36221,A. V. Ford,M,NA,NA,NA,Great Britain,GBR,1908 Summer,1908,Summer,London,Gymnastics,Gymnastics Men's Individual All-Around,NA
+98250,A. W. Nancy Rae,F,16,156,53,Great Britain,GBR,1960 Summer,1960,Summer,Roma,Swimming,Swimming Women's 400 metres Freestyle,NA
+130504,A. Willcocks,M,NA,NA,NA,Cornwall,GBR,1908 Summer,1908,Summer,London,Rugby,Rugby Men's Rugby,Silver
+101940,A. Wynne Rogers,M,NA,NA,NA,Great Britain,GBR,1948 Summer,1948,Summer,London,Art Competitions,Art Competitions Mixed Painting Unknown Event,NA
+101940,A. Wynne Rogers,M,NA,NA,NA,Great Britain,GBR,1948 Summer,1948,Summer,London,Art Competitions,Art Competitions Mixed Painting Unknown Event,NA
+55026,Aa Bela Joaquim,F,29,NA,NA,Angola,ANG,1996 Summer,1996,Summer,Atlanta,Handball,Handball Women's Handball,NA
+59110,Aadam Ismaeel Khamis,M,19,172,67,Bahrain,BRN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 5000 metres,NA
+35386,Aadjijatmiko Finarsih H.,F,20,NA,NA,Indonesia-1,INA,1992 Summer,1992,Summer,Barcelona,Badminton,Badminton Women's Doubles,NA
+35386,Aadjijatmiko Finarsih H.,F,24,NA,NA,Indonesia-1,INA,1996 Summer,1996,Summer,Atlanta,Badminton,Badminton Women's Doubles,NA
+116866,Aadolf Fredrik Svanstrm,M,22,179,70,Finland,FIN,1908 Summer,1908,Summer,London,Athletics,Athletics Men's 800 metres,NA
+116866,Aadolf Fredrik Svanstrm,M,22,179,70,Finland,FIN,1908 Summer,1908,Summer,London,Athletics,Athletics Men's 1500 metres,NA
+45244,Aafke Hament,F,21,181,64,Netherlands,NED,1992 Summer,1992,Summer,Barcelona,Volleyball,Volleyball Women's Volleyball,NA
+68471,Aage Albert Leidersdorff,M,22,168,NA,Denmark,DEN,1932 Summer,1932,Summer,Los Angeles,Fencing,Fencing Men's Foil Team,NA
+68471,Aage Albert Leidersdorff,M,22,168,NA,Denmark,DEN,1932 Summer,1932,Summer,Los Angeles,Fencing,Fencing Men's epee Individual,NA
+68471,Aage Albert Leidersdorff,M,22,168,NA,Denmark,DEN,1932 Summer,1932,Summer,Los Angeles,Fencing,Fencing Men's epee Team,NA
+68471,Aage Albert Leidersdorff,M,22,168,NA,Denmark,DEN,1932 Summer,1932,Summer,Los Angeles,Fencing,Fencing Men's Sabre Individual,NA
+68471,Aage Albert Leidersdorff,M,22,168,NA,Denmark,DEN,1932 Summer,1932,Summer,Los Angeles,Fencing,Fencing Men's Sabre Team,NA
+68471,Aage Albert Leidersdorff,M,26,168,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Fencing,Fencing Men's Foil Individual,NA
+68471,Aage Albert Leidersdorff,M,26,168,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Fencing,Fencing Men's Foil Team,NA
+68471,Aage Albert Leidersdorff,M,26,168,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Fencing,Fencing Men's epee Individual,NA
+68471,Aage Albert Leidersdorff,M,26,168,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Fencing,Fencing Men's epee Team,NA
+68471,Aage Albert Leidersdorff,M,26,168,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Fencing,Fencing Men's Sabre Individual,NA
+68471,Aage Albert Leidersdorff,M,26,168,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Fencing,Fencing Men's Sabre Team,NA
+68471,Aage Albert Leidersdorff,M,38,168,NA,Denmark,DEN,1948 Summer,1948,Summer,London,Fencing,Fencing Men's Foil Individual,NA
+68471,Aage Albert Leidersdorff,M,38,168,NA,Denmark,DEN,1948 Summer,1948,Summer,London,Fencing,Fencing Men's Foil Team,NA
+68471,Aage Albert Leidersdorff,M,38,168,NA,Denmark,DEN,1948 Summer,1948,Summer,London,Fencing,Fencing Men's Sabre Individual,NA
+79182,Aage Avaldorff Meyer,M,23,NA,NA,Denmark,DEN,1928 Summer,1928,Summer,Amsterdam,Wrestling,Wrestling Men's Featherweight Greco-Roman,NA
+79182,Aage Avaldorff Meyer,M,31,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Wrestling,Wrestling Men's Lightweight Greco-Roman,NA
+79182,Aage Avaldorff Meyer,M,31,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Wrestling,Wrestling Men's Lightweight Freestyle,NA
+10763,Aage Berntsen,M,34,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's Foil Individual,NA
+10763,Aage Berntsen,M,34,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's epee Individual,NA
+10763,Aage Berntsen,M,34,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's epee Team,NA
+10763,Aage Berntsen,M,34,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's Sabre Individual,NA
+10763,Aage Berntsen,M,34,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's Sabre Team,NA
+11657,Aage Birch,M,25,172,70,Snude,DEN,1952 Summer,1952,Summer,Helsinki,Sailing,Sailing Mixed Three Person Keelboat,NA
+11657,Aage Birch,M,33,172,70,Chok,DEN,1960 Summer,1960,Summer,Roma,Sailing,Sailing Mixed Three Person Keelboat,NA
+11657,Aage Birch,M,42,172,70,Denmark,DEN,1968 Summer,1968,Summer,Mexico City,Sailing,Sailing Mixed Three Person Keelboat,Silver
+96547,Aage Brge Poulsen,M,29,185,68,Denmark,DEN,1948 Summer,1948,Summer,London,Athletics,Athletics Men's 5000 metres,NA
+66971,Aage Carl Christian Lassen,M,21,181,62,Web III,DEN,1964 Summer,1964,Summer,Tokyo,Sailing,Sailing Mixed 5.5 metres,NA
+15196,Aage Emil Brix,M,29,NA,NA,United States,USA,1924 Summer,1924,Summer,Paris,Football,Football Men's Football,NA
+60726,Aage Emil Kirkegaard,M,21,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Hockey,Hockey Men's Hockey,NA
+66768,Aage Ernst Larsen,M,24,NA,NA,Denmark,DEN,1948 Summer,1948,Summer,London,Rowing,Rowing Men's Double Sculls,Silver
+66768,Aage Ernst Larsen,M,28,NA,NA,Denmark,DEN,1952 Summer,1952,Summer,Helsinki,Rowing,Rowing Men's Double Sculls,NA
+47476,Aage Even Hellstrm,M,15,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Swimming,Swimming Men's 400 metres Freestyle,NA
+47476,Aage Even Hellstrm,M,15,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Swimming,Swimming Men's 1500 metres Freestyle,NA
+47476,Aage Even Hellstrm,M,15,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,NA
+47244,Aage Heimann,M,27,NA,NA,Denmark,DEN,1928 Summer,1928,Summer,Amsterdam,Hockey,Hockey Men's Hockey,NA
+47931,Aage Hermann,M,40,NA,NA,Denmark,DEN,1928 Summer,1928,Summer,Amsterdam,Art Competitions,Art Competitions Mixed Literature Lyric Works,NA
+92600,Aage Hy Pedersen,M,25,NA,NA,Denmark,DEN,1924 Summer,1924,Summer,Paris,Sailing,Sailing Mixed One Person Dinghy,NA
+92600,Aage Hy Pedersen,M,29,NA,NA,Hi-Hi,DEN,1928 Summer,1928,Summer,Amsterdam,Sailing,Sailing Mixed 6 metres,Silver
+32922,Aage Ingvar Eriksen,M,31,NA,NA,Norway,NOR,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Lightweight Greco-Roman,Silver
+32922,Aage Ingvar Eriksen,M,35,NA,NA,Norway,NOR,1952 Summer,1952,Summer,Helsinki,Wrestling,Wrestling Men's Lightweight Greco-Roman,NA
+3684,Aage Jrgen Christian Andersen,M,22,NA,NA,Denmark,DEN,1906 Summer,1906,Summer,Athina,Football,Football Men's Football,Gold
+56099,Aage Jrgensen,M,20,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Gymnastics,Gymnastics Men's Team All-Around Swedish System,Silver
+56427,Aage Justesen,M,30,NA,NA,Denmark,DEN,1948 Winter,1948,Winter,Sankt Moritz,Speed Skating,Speed Skating Men's 500 metres,NA
+45777,Aage Marius Hansen,M,21,NA,NA,Denmark,DEN,1912 Summer,1912,Summer,Stockholm,Gymnastics,Gymnastics Men's Team All-Around Free System,Bronze
+83873,Aage Myhrvold,M,29,NA,NA,Norway,NOR,1948 Summer,1948,Summer,London,Cycling,Cycling Men's Road Race Individual,NA
+83873,Aage Myhrvold,M,29,NA,NA,Norway,NOR,1948 Summer,1948,Summer,London,Cycling,Cycling Men's Road Race Team,NA
+86056,Aage Nielsen-Edwin,M,38,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Art Competitions,Art Competitions Mixed Sculpturing Unknown Event,NA
+98996,Aage Rasmussen (-Remfeldt),M,22,177,67,Denmark,DEN,1912 Summer,1912,Summer,Stockholm,Athletics,Athletics Men's 10 kilometres Walk,NA
+103217,Aage Rubk-Nielsen,M,38,NA,NA,Denmark,DEN,1952 Summer,1952,Summer,Helsinki,Equestrianism,Equestrianism Men's Three-Day Event Individual,NA
+103217,Aage Rubk-Nielsen,M,38,NA,NA,Denmark,DEN,1952 Summer,1952,Summer,Helsinki,Equestrianism,Equestrianism Men's Three-Day Event Team,NA
+73245,Aage Sigfried Madsen,M,28,NA,NA,Denmark,DEN,1912 Summer,1912,Summer,Stockholm,Tennis,Tennis Men's Singles,NA
+73245,Aage Sigfried Madsen,M,28,NA,NA,Denmark-4,DEN,1912 Summer,1912,Summer,Stockholm,Tennis,Tennis Men's Doubles,NA
+114608,Aage Torstein Wetteland Steen,M,20,NA,NA,Norway,NOR,1920 Summer,1920,Summer,Antwerpen,Boxing,Boxing Men's Welterweight,NA
+54331,Aage Ulrik Jensen,M,20,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Rowing,Rowing Men's Coxed Pairs,NA
+54331,Aage Ulrik Jensen,M,20,NA,NA,Denmark,DEN,1936 Summer,1936,Summer,Berlin,Rowing,Rowing Men's Coxed Fours,NA
+36724,Aage Valdemar Harald Frandsen,M,29,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Gymnastics,Gymnastics Men's Team All-Around Free System,Gold
+49425,Aage Vilhelm Holm,M,18,NA,NA,Denmark,DEN,1908 Summer,1908,Summer,London,Swimming,Swimming Men's 400 metres Freestyle,NA
+128325,Aage Walther,M,23,NA,NA,Denmark,DEN,1920 Summer,1920,Summer,Antwerpen,Gymnastics,Gymnastics Men's Team All-Around Swedish System,Silver
+62062,Aagje Kok (-van der Linden),F,17,183,85,Netherlands,NED,1964 Summer,1964,Summer,Tokyo,Swimming,Swimming Women's 100 metres Butterfly,Silver
+62062,Aagje Kok (-van der Linden),F,17,183,85,Netherlands,NED,1964 Summer,1964,Summer,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver
+62062,Aagje Kok (-van der Linden),F,21,183,85,Netherlands,NED,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Women's 100 metres Butterfly,NA
+62062,Aagje Kok (-van der Linden),F,21,183,85,Netherlands,NED,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Women's 200 metres Butterfly,Gold
+62062,Aagje Kok (-van der Linden),F,21,183,85,Netherlands,NED,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Women's 4 x 100 metres Medley Relay,NA
+125174,Aagje Vanwalleghem,F,16,155,43,Belgium,BEL,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Women's Individual All-Around,NA
+125174,Aagje Vanwalleghem,F,16,155,43,Belgium,BEL,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Women's Floor Exercise,NA
+125174,Aagje Vanwalleghem,F,16,155,43,Belgium,BEL,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Women's Horse Vault,NA
+125174,Aagje Vanwalleghem,F,16,155,43,Belgium,BEL,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Women's Uneven Bars,NA
+125174,Aagje Vanwalleghem,F,16,155,43,Belgium,BEL,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Women's Balance Beam,NA
+86946,Aagot Norman,F,19,NA,NA,Norway,NOR,1912 Summer,1912,Summer,Stockholm,Swimming,Swimming Women's 100 metres Freestyle,NA
+122961,Aale Maria Tynni (-Pirinen -Haavio),F,34,NA,NA,Finland,FIN,1948 Summer,1948,Summer,London,Art Competitions,Art Competitions Mixed Literature Lyric Works,Gold
+13348,Aaltje Grietje Boorsma,F,24,179,75,Netherlands,NED,1984 Winter,1984,Winter,Sarajevo,Speed Skating,Speed Skating Women's 500 metres,NA
+13348,Aaltje Grietje Boorsma,F,24,179,75,Netherlands,NED,1984 Winter,1984,Winter,Sarajevo,Speed Skating,Speed Skating Women's 1000 metres,NA
+62777,Aapeli Richard Korhonen,M,25,NA,NA,Finland,FIN,1908 Summer,1908,Summer,London,Gymnastics,Gymnastics Men's Individual All-Around,NA
+93471,Aapo Kustaa Perko,M,27,180,82,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's Shot Put,NA
+130773,Aarik Wilson,M,25,191,88,United States,USA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Triple Jump,NA
+38067,Aarn Galindo Rubio,M,22,182,80,Mexico,MEX,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,NA
+105819,Aarn Sarmiento Padilla,M,21,180,72,Spain,ESP,2008 Summer,2008,Summer,Beijing,Sailing,Sailing Men's Two Person Dinghy,NA
+105819,Aarn Sarmiento Padilla,M,25,180,72,Spain,ESP,2012 Summer,2012,Summer,London,Sailing,Sailing Men's Two Person Dinghy,NA
+94296,Aarne Aatami Peussa,M,23,179,66,Finland,FIN,1924 Summer,1924,Summer,Paris,Athletics,Athletics Men's 1500 metres,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Individual All-Around,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Team All-Around,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Horse Vault,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Parallel Bars,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Horizontal Bar,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Rings,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Pommelled Horse,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Rope Climbing,NA
+102057,Aarne Alexander Roine,M,30,NA,NA,Finland,FIN,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics Men's Side Horse,NA
+95679,Aarne Anders Pohjonen,M,22,NA,NA,Finland,FIN,1908 Summer,1908,Summer,London,Gymnastics,Gymnastics Men's Team All-Around,Bronze
+99800,Aarne Eemeli Reini,M,25,NA,NA,Finland,FIN,1932 Summer,1932,Summer,Los Angeles,Wrestling,Wrestling Men's Lightweight Greco-Roman,NA
+99800,Aarne Eemeli Reini,M,29,NA,NA,Finland,FIN,1936 Summer,1936,Summer,Berlin,Wrestling,Wrestling Men's Featherweight Greco-Roman,Silver
+125670,Aarne Eino Henrik Vehkonen,M,24,160,57.5,Finland,FIN,1952 Summer,1952,Summer,Helsinki,Weightlifting,Weightlifting Men's Bantamweight,NA
+92837,Aarne Eliel Tellervo Pelkonen,M,20,NA,NA,Finland,FIN,1912 Summer,1912,Summer,Stockholm,Gymnastics,Gymnastics Men's Team All-Around Free System,Silver
+56904,Aarne Erik Kallberg,M,20,174,67,Finland,FIN,1912 Summer,1912,Summer,Stockholm,Athletics,Athletics Men's Marathon,NA
+18979,Aarne Frithiof Louis Castrn,M,28,NA,NA,Teresita,FIN,1952 Summer,1952,Summer,Helsinki,Sailing,Sailing Mixed 5.5 metres,NA
+56697,Aarne Kainlauri,M,33,171,63,Finland,FIN,1948 Summer,1948,Summer,London,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+70232,Aarne Ulf Kristian Lindroos,M,23,192,88.5,Finland,FIN,1984 Summer,1984,Summer,Los Angeles,Rowing,Rowing Men's Double Sculls,NA
+70232,Aarne Ulf Kristian Lindroos,M,27,192,88.5,Finland,FIN,1988 Summer,1988,Summer,Seoul,Rowing,Rowing Men's Coxless Pairs,NA
+49758,Aarne Vin Edward Honkavaara,M,27,184,81,Finland,FIN,1952 Winter,1952,Winter,Oslo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+3005,Aarno Aksel Almqvist,M,30,NA,NA,Russia,RUS,1912 Summer,1912,Summer,Stockholm,Modern Pentathlon,Modern Pentathlon Men's Individual,NA
+60961,Aaro Kullervo Kiviper (Dahlberg-),M,24,NA,NA,Finland,FIN,1936 Summer,1936,Summer,Berlin,Modern Pentathlon,Modern Pentathlon Men's Individual,NA
+22835,Aaron Arthur Cook,M,17,183,80,Great Britain,GBR,2008 Summer,2008,Summer,Beijing,Taekwondo,Taekwondo Men's Welterweight,NA
+22835,Aaron Arthur Cook,M,25,183,80,Moldova,MDA,2016 Summer,2016,Summer,Rio de Janeiro,Taekwondo,Taekwondo Men's Welterweight,NA
+47920,Aaron Benjamin Herman,M,19,153,50,United States,USA,1972 Summer,1972,Summer,Munich,Rowing,Rowing Men's Coxed Pairs,NA
+12407,Aaron Blunck,M,17,180,78,United States,USA,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Halfpipe,NA
+15460,Aaron Brown,M,20,198,79,Canada,CAN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 200 metres,NA
+15460,Aaron Brown,M,24,198,79,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,NA
+15460,Aaron Brown,M,24,198,79,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 200 metres,NA
+15460,Aaron Brown,M,24,198,79,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 4 x 100 metres Relay,Bronze
+21967,Aaron Cleare,M,21,185,84,Bahamas,BAH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+88935,Aaron Duane Olson,M,26,195,90,New Zealand,NZL,2004 Summer,2004,Summer,Athina,Basketball,Basketball Men's Basketball,NA
+30730,Aaron Dupnai,M,20,162,54,Papua New Guinea,PNG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 10000 metres,NA
+30730,Aaron Dupnai,M,20,162,54,Papua New Guinea,PNG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,NA
+95905,Aaron E. Pollock,M,25,200,107,United States,USA,1992 Summer,1992,Summer,Barcelona,Rowing,Rowing Men's Coxed Pairs,NA
+31551,Aaron Egbele,M,25,181,79,Nigeria,NGR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 4 x 100 metres Relay,Bronze
+34589,Aaron Feltham,M,26,190,94,Canada,CAN,2008 Summer,2008,Summer,Beijing,Water Polo,Water Polo Men's Water Polo,NA
+34739,Aaron Fernandes,M,27,NA,NA,Canada,CAN,1984 Summer,1984,Summer,Los Angeles,Hockey,Hockey Men's Hockey,NA
+39016,Aaron Gate,M,21,181,71,New Zealand,NZL,2012 Summer,2012,Summer,London,Cycling,Cycling Men's Team Pursuit 4000 metres,Bronze
+39016,Aaron Gate,M,25,181,71,New Zealand,NZL,2016 Summer,2016,Summer,Rio de Janeiro,Cycling,Cycling Men's Team Pursuit 4000 metres,NA
+9032,Aaron J. Bear,M,25,170,82,Australia,AUS,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+9032,Aaron J. Bear,M,25,170,82,Australia,AUS,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Super G,NA
+9032,Aaron J. Bear,M,25,170,82,Australia,AUS,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Combined,NA
+9032,Aaron J. Bear,M,29,170,82,Australia,AUS,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Super G,NA
+98774,Aaron James Ramsey,M,21,178,70,Great Britain,GBR,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+107967,Aaron James Scott,M,22,177,72,New Zealand,NZL,2008 Summer,2008,Summer,Beijing,Football,Football Men's Football,NA
+77625,Aaron John McIntosh,M,24,177,71,New Zealand,NZL,1996 Summer,1996,Summer,Atlanta,Sailing,Sailing Men's Windsurfer,NA
+77625,Aaron John McIntosh,M,28,177,71,New Zealand,NZL,2000 Summer,2000,Summer,Sydney,Sailing,Sailing Men's Windsurfer,Bronze
+103079,Aaron John Royle,M,26,180,67,Australia,AUS,2016 Summer,2016,Summer,Rio de Janeiro,Triathlon,Triathlon Men's Olympic Distance,NA
+83867,Aaron Kenneth Myette,M,26,195,95,Canada,CAN,2004 Summer,2004,Summer,Athina,Baseball,Baseball Men's Baseball,NA
+71784,Aaron Lowe,M,31,178,NA,Canada-2,CAN,2006 Winter,2006,Winter,Torino,Figure Skating,Figure Skating Mixed Ice Dancing,NA
+74761,Aaron March,M,23,185,85,Italy,ITA,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+74761,Aaron March,M,27,185,85,Italy,ITA,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+74761,Aaron March,M,27,185,85,Italy,ITA,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Slalom,NA
+79865,Aaron Michael Miller,M,30,190,91,United States,USA,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,Silver
+85699,Aaron Nguimbat,M,22,NA,NA,Cameroon,CMR,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,Gold
+5150,Aaron Nigel Armstrong,M,30,173,70,Trinidad and Tobago,TTO,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 200 metres,NA
+5150,Aaron Nigel Armstrong,M,30,173,70,Trinidad and Tobago,TTO,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 4 x 100 metres Relay,Gold
+91360,Aaron Parchem,M,28,178,77,United States-2,USA,2006 Winter,2006,Winter,Torino,Figure Skating,Figure Skating Mixed Pairs,NA
+96167,Aaron Popoola,M,26,168,67,Ghana,GHA,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Welterweight,NA
+98626,Aaron Ramirez,M,27,178,64,United States,USA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 10000 metres,NA
+35876,Aaron Ross Flood,M,25,NA,NA,United States,USA,1936 Summer,1936,Summer,Berlin,Wrestling,Wrestling Men's Bantamweight Freestyle,Silver
+103595,Aaron Russell,M,23,206,93,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,Bronze
+81059,Aaron Teboho Mokoena,M,19,178,78,South Africa,RSA,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,NA
+92771,Aaron Wells Peirsol,M,17,191,91,United States,USA,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 200 metres Backstroke,Silver
+92771,Aaron Wells Peirsol,M,21,191,91,United States,USA,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 100 metres Backstroke,Gold
+92771,Aaron Wells Peirsol,M,21,191,91,United States,USA,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 200 metres Backstroke,Gold
+92771,Aaron Wells Peirsol,M,21,191,91,United States,USA,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Gold
+92771,Aaron Wells Peirsol,M,25,191,91,United States,USA,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 100 metres Backstroke,Gold
+92771,Aaron Wells Peirsol,M,25,191,91,United States,USA,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 200 metres Backstroke,Silver
+92771,Aaron Wells Peirsol,M,25,191,91,United States,USA,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Gold
+133243,Aaron Younger,M,20,193,100,Australia,AUS,2012 Summer,2012,Summer,London,Water Polo,Water Polo Men's Water Polo,NA
+133243,Aaron Younger,M,24,193,100,Australia,AUS,2016 Summer,2016,Summer,Rio de Janeiro,Water Polo,Water Polo Men's Water Polo,NA
+125007,Aart Josephus van Wilgenburg,M,21,NA,NA,Netherlands,NED,1924 Summer,1924,Summer,Paris,Swimming,Swimming Men's 100 metres Backstroke,NA
+126445,Aart Vierhouten,M,26,182,71,Netherlands,NED,1996 Summer,1996,Summer,Atlanta,Cycling,Cycling Men's Road Race Individual,NA
+66988,Aartje Elisabeth Lasterie,F,20,171,65,Netherlands,NED,1964 Summer,1964,Summer,Tokyo,Swimming,Swimming Women's 100 metres Butterfly,NA
+66988,Aartje Elisabeth Lasterie,F,20,171,65,Netherlands,NED,1964 Summer,1964,Summer,Tokyo,Swimming,Swimming Women's 400 metres Individual Medley,NA
+66988,Aartje Elisabeth Lasterie,F,20,171,65,Netherlands,NED,1964 Summer,1964,Summer,Tokyo,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Silver
+127468,Aartje Johanna Voorbij (-Dorresteijn),F,19,164,63,Netherlands,NED,1960 Summer,1960,Summer,Roma,Swimming,Swimming Women's 100 metres Butterfly,NA
+80701,Aas Mmmdov,M,20,169,54,Turkey,TUR,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Bantamweight,NA
+80701,Aas Mmmdov,M,24,169,54,Azerbaijan,AZE,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Bantamweight,Bronze
+72353,Aase Lundsteen (-Madsen -Hoffman-Madsen),F,20,NA,NA,Denmark,DEN,1924 Summer,1924,Summer,Paris,Art Competitions,Art Competitions Mixed Painting,NA
+72353,Aase Lundsteen (-Madsen -Hoffman-Madsen),F,20,NA,NA,Denmark,DEN,1924 Summer,1924,Summer,Paris,Art Competitions,Art Competitions Mixed Painting,NA
+68430,Aatos Ensio Lehtonen,M,22,NA,NA,Finland,FIN,1936 Summer,1936,Summer,Berlin,Football,Football Men's Football,NA
+48836,Aatos Martin Hirvisalo,M,32,NA,NA,Vinha,FIN,1948 Summer,1948,Summer,London,Sailing,Sailing Mixed Three Person Keelboat,NA
+87362,Aatto Johannes Nuora,M,40,NA,NA,Finland,FIN,1936 Summer,1936,Summer,Berlin,Shooting,Shooting Men's Free Pistol 50 metres,NA
+94751,Aatto Johannes Pietikinen,M,26,NA,NA,Finland,FIN,1948 Winter,1948,Winter,Sankt Moritz,Ski Jumping,Ski Jumping Men's Normal Hill Individual,NA
+12909,Aauri Lorena Bokesa Abia,F,23,180,62,Spain,ESP,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 400 metres,NA
+12909,Aauri Lorena Bokesa Abia,F,27,180,62,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 400 metres,NA
+94841,Aavo Pikkuus,M,21,178,76,Soviet Union,URS,1976 Summer,1976,Summer,Montreal,Cycling,Cycling Men's Road Race Individual,NA
+94841,Aavo Pikkuus,M,21,178,76,Soviet Union,URS,1976 Summer,1976,Summer,Montreal,Cycling,Cycling Men's 100 kilometres Team Time Trial,Gold
+110429,aba Silai,M,17,185,77,Serbia,SRB,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 100 metres Breaststroke,NA
+110429,aba Silai,M,21,185,77,Serbia,SRB,2012 Summer,2012,Summer,London,Swimming,Swimming Men's 100 metres Breaststroke,NA
+110429,aba Silai,M,25,185,77,Serbia,SRB,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 100 metres Breaststroke,NA
+132909,Ababel Yeshaneh Birhane,F,25,165,54,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 5000 metres,NA
+44616,Abadi Hadis Embaye,M,18,170,63,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 10000 metres,NA
+108376,aban Sejdi,M,17,172,74,Yugoslavia,YUG,1976 Summer,1976,Summer,Montreal,Wrestling,Wrestling Men's Lightweight Freestyle,NA
+108376,aban Sejdi,M,21,172,74,Yugoslavia,YUG,1980 Summer,1980,Summer,Moskva,Wrestling,Wrestling Men's Lightweight Freestyle,Bronze
+108376,aban Sejdi,M,25,172,74,Yugoslavia,YUG,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Welterweight Freestyle,Bronze
+108376,aban Sejdi,M,29,172,74,Yugoslavia,YUG,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Welterweight Freestyle,NA
+122096,aban Trstena,M,19,165,58,Yugoslavia,YUG,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Flyweight Freestyle,Gold
+122096,aban Trstena,M,23,165,58,Yugoslavia,YUG,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Flyweight Freestyle,Silver
+122096,aban Trstena,M,31,165,58,Macedonia,MKD,1996 Summer,1996,Summer,Atlanta,Wrestling,Wrestling Men's Bantamweight Freestyle,NA
+5342,Abas Arslanagi,M,27,189,97,Yugoslavia,YUG,1972 Summer,1972,Summer,Munich,Handball,Handball Men's Handball,Gold
+5342,Abas Arslanagi,M,31,189,97,Yugoslavia,YUG,1976 Summer,1976,Summer,Montreal,Handball,Handball Men's Handball,NA
+52595,Abas Ismaili,M,21,185,78,Iran,IRI,1988 Summer,1988,Summer,Seoul,Cycling,Cycling Men's 100 kilometres Team Time Trial,NA
+1367,Abbas Ahmad,M,NA,NA,NA,Egypt,EGY,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Middleweight Greco-Roman,NA
+1367,Abbas Ahmad,M,NA,NA,NA,Egypt,EGY,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Middleweight Freestyle,NA
+1939,Abbas Al-Harbi,M,28,NA,NA,Kuwait,KUW,1996 Summer,1996,Summer,Atlanta,Handball,Handball Men's Handball,NA
+2096,Abbas Al-Qaisoum,M,31,173,94,Saudi Arabia,KSA,2012 Summer,2012,Summer,London,Weightlifting,Weightlifting Men's Middle-Heavyweight,NA
+24755,Abbas Dabbaghi Souraki,M,21,168,55,Iran,IRI,2008 Summer,2008,Summer,Beijing,Wrestling,Wrestling Men's Featherweight Freestyle,NA
+33919,Abbas Fallah,M,27,180,90,Iran,IRI,2004 Summer,2004,Summer,Athina,Judo,Judo Men's Middleweight,NA
+58673,Abbas Haj Kenari,M,22,170,62,Iran,IRI,1996 Summer,1996,Summer,Atlanta,Wrestling,Wrestling Men's Featherweight Freestyle,NA
+46053,Abbas Hariri,M,NA,NA,NA,Iran,IRI,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Middleweight Freestyle,NA
+53277,Abbas Jadidi,M,27,185,99,Iran,IRI,1996 Summer,1996,Summer,Atlanta,Wrestling,Wrestling Men's Heavyweight Freestyle,Silver
+53277,Abbas Jadidi,M,31,185,99,Iran,IRI,2000 Summer,2000,Summer,Sydney,Wrestling,Wrestling Men's Super-Heavyweight Freestyle,NA
+59111,Abbas Khamis,M,27,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Rowing,Rowing Men's Coxed Eights,NA
+59111,Abbas Khamis,M,31,NA,NA,Egypt,EGY,1964 Summer,1964,Summer,Tokyo,Rowing,Rowing Men's Coxed Eights,NA
+80877,Abbas Mohamed,M,24,NA,NA,Nigeria,NGR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,NA
+1777,Abbas Murshid Al-Aibi,M,NA,168,67,Iraq,IRQ,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+97735,Abbas Qali,M,23,178,77,Individual Olympic Athletes,IOA,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,NA
+104187,Abbas Saeidi Tanha,M,23,168,70,Iran,IRI,2004 Summer,2004,Summer,Athina,Cycling,Cycling Men's Road Race Individual,NA
+104984,Abbas Samimi,M,27,203,115,Iran,IRI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's Discus Throw,NA
+104984,Abbas Samimi,M,31,203,115,Iran,IRI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Discus Throw,NA
+118105,Abbas Talebi,M,24,NA,75,Iran,IRI,1992 Summer,1992,Summer,Barcelona,Weightlifting,Weightlifting Men's Middleweight,NA
+133921,Abbas Zandi,M,18,NA,NA,Iran,IRI,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Welterweight Freestyle,NA
+133921,Abbas Zandi,M,22,NA,NA,Iran,IRI,1952 Summer,1952,Summer,Helsinki,Wrestling,Wrestling Men's Light-Heavyweight Freestyle,NA
+133921,Abbas Zandi,M,26,NA,NA,Iran,IRI,1956 Summer,1956,Summer,Melbourne,Wrestling,Wrestling Men's Middleweight Freestyle,NA
+134232,Abbas Zeghayer,M,NA,NA,NA,Iraq,IRQ,1984 Summer,1984,Summer,Los Angeles,Boxing,Boxing Men's Light-Flyweight,NA
+45954,Abbes Harchi,M,24,170,72,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's Foil Team,NA
+45954,Abbes Harchi,M,24,170,72,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's epee Individual,NA
+45954,Abbes Harchi,M,24,170,72,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's epee Team,NA
+129476,Abbey Weitzeil,F,19,178,68,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,NA
+129476,Abbey Weitzeil,F,19,178,68,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,NA
+129476,Abbey Weitzeil,F,19,178,68,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Silver
+129476,Abbey Weitzeil,F,19,178,68,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Gold
+8319,Abbo Dias Bartolomeu,M,22,NA,NA,Angola,ANG,1988 Summer,1988,Summer,Seoul,Judo,Judo Men's Extra-Lightweight,NA
+74753,Abbondio Marcelli,M,24,NA,NA,Italy,ITA,1956 Summer,1956,Summer,Melbourne,Rowing,Rowing Men's Coxless Fours,NA
+112099,Abbondio Smerghetto,M,21,NA,NA,Italy,ITA,1952 Summer,1952,Summer,Helsinki,Rowing,Rowing Men's Coxed Fours,NA
+5778,Abbos Atayev,M,22,186,75,Uzbekistan,UZB,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Light-Heavyweight,NA
+5778,Abbos Atayev,M,26,186,75,Uzbekistan,UZB,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Middleweight,Bronze
+98502,Abbos Rakhmonov,M,18,161,57,Uzbekistan,UZB,2016 Summer,2016,Summer,Rio de Janeiro,Wrestling,Wrestling Men's Featherweight Freestyle,NA
+80730,Abbubaker Mobara,M,22,175,64,South Africa,RSA,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Men's Football,NA
+11779,Abby Bishop,F,23,189,85,Australia,AUS,2012 Summer,2012,Summer,London,Basketball,Basketball Women's Basketball,Bronze
+32815,Abby May Erceg,F,18,177,68,New Zealand,NZL,2008 Summer,2008,Summer,Beijing,Football,Football Women's Football,NA
+32815,Abby May Erceg,F,22,177,68,New Zealand,NZL,2012 Summer,2012,Summer,London,Football,Football Women's Football,NA
+32815,Abby May Erceg,F,26,177,68,New Zealand,NZL,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Women's Football,NA
+101671,Abclvio Rodrigues,M,27,181,74,Brazil,BRA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Triple Jump,NA
+101671,Abclvio Rodrigues,M,31,181,74,Brazil,BRA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Triple Jump,NA
+1853,Abdal Salam Al-Dabaji,M,25,176,64,Palestine,PLE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,NA
+46110,Abdalelah Haroun Hassan,M,19,185,80,Qatar,QAT,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 400 metres,NA
+234,Abdalla Abdelgadir El-Sheikh,M,21,170,58,Sudan,SUD,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 1500 metres,NA
+1381,Abdalla Ahmed,M,24,198,72,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Volleyball,Volleyball Men's Volleyball,NA
+80878,Abdalla Ali Mohamed,M,25,192,90,Egypt,EGY,2004 Summer,2004,Summer,Athina,Handball,Handball Men's Handball,NA
+2138,Abdalla Al-Sebaei,M,20,NA,70,Syria,SYR,1996 Summer,1996,Summer,Atlanta,Weightlifting,Weightlifting Men's Lightweight,NA
+133252,Abdalla Yousif,M,19,177,65,Sudan,SUD,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+110175,Abdallah Al-Sidani,M,NA,NA,NA,Lebanon,LIB,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Flyweight Greco-Roman,NA
+39222,Abdallah Gazi,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Rowing,Rowing Men's Coxed Eights,NA
+56269,Abdallah Juma,M,24,NA,60,Kenya,KEN,1992 Summer,1992,Summer,Barcelona,Weightlifting,Weightlifting Men's Featherweight,NA
+65936,Abdallah Lahoucine,M,NA,165,62,Morocco,MAR,1960 Summer,1960,Summer,Roma,Cycling,Cycling Men's Road Race Individual,NA
+65936,Abdallah Lahoucine,M,NA,165,62,Morocco,MAR,1960 Summer,1960,Summer,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,NA
+135202,Abdallah Zohdy,M,35,NA,NA,Egypt,EGY,1964 Summer,1964,Summer,Tokyo,Shooting,Shooting Men's Rapid-Fire Pistol 25 metres,NA
+98966,Abdel Aal Ahmed Rashid,M,24,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Wrestling,Wrestling Men's Featherweight Greco-Roman,Bronze
+57820,Abdel Ali Kasbane,M,29,175,64,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+133709,Abdel Ali Zahraoui,M,NA,175,68,Morocco,MAR,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+14174,Abdel Amid Boutefnouchet,M,20,NA,NA,France,FRA,1952 Summer,1952,Summer,Helsinki,Boxing,Boxing Men's Flyweight,NA
+7058,Abdel Atif Bakir,M,23,180,78,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Handball,Handball Men's Handball,NA
+10490,Abdel Atif Bergheul,M,NA,NA,NA,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Handball,Handball Men's Handball,NA
+80924,Abdel Azim Sayed Mohamed,M,32,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Football,Football Men's Football,NA
+9846,Abdel Aziz Ben Abdallah,M,20,194,87,Tunisia,TUN,1984 Summer,1984,Summer,Los Angeles,Volleyball,Volleyball Men's Volleyball,NA
+9846,Abdel Aziz Ben Abdallah,M,24,194,87,Tunisia,TUN,1988 Summer,1988,Summer,Seoul,Volleyball,Volleyball Men's Volleyball,NA
+82637,Abdel Aziz Boukar Boukar Moussa,M,24,204,97,Angola,ANG,2004 Summer,2004,Summer,Athina,Basketball,Basketball Men's Basketball,NA
+82637,Abdel Aziz Boukar Boukar Moussa,M,28,204,97,Angola,ANG,2008 Summer,2008,Summer,Beijing,Basketball,Basketball Men's Basketball,NA
+14036,Abdel Aziz Boulehia,M,25,170,54,Algeria,ALG,1996 Summer,1996,Summer,Atlanta,Boxing,Boxing Men's Bantamweight,NA
+14149,Abdel Aziz Bousarsar,M,23,182,74,Tunisia,TUN,1972 Summer,1972,Summer,Munich,Volleyball,Volleyball Men's Volleyball,NA
+27691,Abdel Aziz Derbal,M,19,179,66,Tunisia,TUN,1972 Summer,1972,Summer,Munich,Volleyball,Volleyball Men's Volleyball,NA
+33254,Abdel Aziz Essafoui,M,25,180,90,Morocco,MAR,1996 Summer,1996,Summer,Atlanta,Wrestling,Wrestling Men's Light-Heavyweight Greco-Roman,NA
+32161,Abdel Aziz Fahmi El-Shafei,M,20,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Water Polo,Water Polo Men's Water Polo,NA
+32161,Abdel Aziz Fahmi El-Shafei,M,20,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Swimming,Swimming Men's 100 metres Freestyle,NA
+32161,Abdel Aziz Fahmi El-Shafei,M,28,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Water Polo,Water Polo Men's Water Polo,NA
+45349,Abdel Aziz Hammi,M,23,162,54,Tunisia,TUN,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Bantamweight,NA
+1791,Abdel Aziz Khalid Al-Anjri,M,NA,155,75,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Handball,Handball Men's Handball,NA
+78176,Abdel Aziz Mehelba,M,27,176,80,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,Shooting Men's Trap,NA
+78998,Abdel Aziz Merzougui Noureddine,M,20,175,67,Spain,ESP,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+78998,Abdel Aziz Merzougui Noureddine,M,24,175,67,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+56507,Abdel Aziz Mohamed Kabil,M,25,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Football,Football Men's Football,NA
+104304,Abdel Aziz Sahre,M,20,183,63,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+104304,Abdel Aziz Sahre,M,28,183,63,Morocco,MAR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+117812,Abdel Aziz Tahir,M,23,176,76,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Welterweight Greco-Roman,NA
+117812,Abdel Aziz Tahir,M,27,176,76,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Welterweight Greco-Roman,NA
+133716,Abdel Aziz Zaibi,M,19,172,75,Tunisia,TUN,1972 Summer,1972,Summer,Munich,Handball,Handball Men's Handball,NA
+13899,Abdel Djalil Bouanani,M,29,NA,NA,Algeria,ALG,1996 Summer,1996,Summer,Atlanta,Handball,Handball Men's Handball,NA
+484,Abdel Fattah Abou-Shanab,M,24,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Rowing,Rowing Men's Coxed Eights,NA
+484,Abdel Fattah Abou-Shanab,M,28,NA,NA,Egypt,EGY,1964 Summer,1964,Summer,Tokyo,Rowing,Rowing Men's Coxed Eights,NA
+32052,Abdel Fattah El-Khattari,M,23,170,74,Morocco,MAR,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,NA
+53296,Abdel Fattah Jafri,M,22,178,70,Morocco,MAR,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+33259,Abdel Fattah Mohamed Essawi,M,28,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Wrestling,Wrestling Men's Featherweight Freestyle,NA
+51542,Abdel Fattah Sayed Ibrahim,M,25,158,57,Egypt,EGY,1972 Summer,1972,Summer,Munich,Wrestling,Wrestling Men's Flyweight Greco-Roman,NA
+45406,Abdel Galil Ahmed Hamza Hemueda,M,28,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Football,Football Men's Football,NA
+32075,Abdel Ghani El-Mansouri,M,NA,176,72,Morocco,MAR,1964 Summer,1964,Summer,Tokyo,Football,Football Men's Football,NA
+43560,Abdel Ghani Guriguer,M,22,174,68,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+71684,Abdel Ghani Loukil,M,23,190,82,Algeria,ALG,1996 Summer,1996,Summer,Atlanta,Handball,Handball Men's Handball,NA
+31978,Abdel Hadi Ahmed El-Gazzar,M,24,194,80,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Basketball,Basketball Men's Basketball,NA
+59093,Abdel Hadj Khallaf Allah,M,22,160,60,Egypt,EGY,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Featherweight,NA
+59093,Abdel Hadj Khallaf Allah,M,26,160,60,Egypt,EGY,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Lightweight,NA
+673,Abdel Hak Achik,M,29,165,54,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Featherweight,Bronze
+28859,Abdel Hakim Djaziri,M,23,174,60,Algeria,ALG,2004 Summer,2004,Summer,Athina,Table Tennis,Table Tennis Men's Doubles,NA
+46061,Abdel Hakim Harkat,M,24,NA,NA,Algeria,ALG,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Half-Lightweight,NA
+46061,Abdel Hakim Harkat,M,28,NA,NA,Algeria,ALG,1996 Summer,1996,Summer,Atlanta,Judo,Judo Men's Lightweight,NA
+46471,Abdel Halim Younis Hassan,M,NA,NA,NA,Egypt,EGY,1928 Summer,1928,Summer,Amsterdam,Football,Football Men's Football,NA
+32008,Abdel Hamed El-Hadi,M,NA,NA,NA,Libya,LBA,1988 Summer,1988,Summer,Seoul,Cycling,Cycling Men's Road Race Individual,NA
+32192,Abdel Hamid El-Wassimy,M,28,199,83,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Volleyball,Volleyball Men's Volleyball,NA
+36478,Abdel Hamid Fouad Gad,M,28,165,68,Egypt,EGY,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Welterweight,NA
+45225,Abdel Hamid Hamdi,M,NA,NA,NA,Egypt,EGY,1928 Summer,1928,Summer,Amsterdam,Football,Football Men's Football,NA
+59112,Abdel Hamid Khamis,M,28,165,65,Egypt,EGY,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 10000 metres,NA
+104306,Abdel Hamid Sahil,M,23,182,75,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's High Jump,NA
+111951,Abdel Hamid Slimani,M,28,166,60,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Judo,Judo Men's Extra-Lightweight,NA
+132135,Abdel Hamid Yacout,M,NA,NA,56,Egypt,EGY,1948 Summer,1948,Summer,London,Weightlifting,Weightlifting Men's Bantamweight,NA
+58768,Abdel Hani Kenzi,M,26,181,75,Algeria,ALG,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Middleweight,NA
+58768,Abdel Hani Kenzi,M,30,181,75,Algeria,ALG,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Light-Heavyweight,NA
+9523,Abdel Jabbar Bel Gnaoui,M,26,185,75,Morocco,MAR,1968 Summer,1968,Summer,Mexico City,Basketball,Basketball Men's Basketball,NA
+54130,Abdel Jebahi,M,25,180,60,France,FRA,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Lightweight,NA
+98056,Abdel Kader Ahmed Rabieh,M,26,205,85,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Basketball,Basketball Men's Basketball,NA
+9592,Abdel Kader Belghiti,M,NA,162,51,Morocco,MAR,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Flyweight,NA
+9894,Abdel Kader Ben Kamel,M,NA,177,82,Morocco,MAR,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Light-Heavyweight,NA
+20122,Abdel Kader Chkhmani,M,25,180,70,France,FRA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 1500 metres,NA
+32094,Abdel Kader El-Mouaziz,M,27,172,58,Morocco,MAR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,NA
+32094,Abdel Kader El-Mouaziz,M,31,172,58,Morocco,MAR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,NA
+38350,Abdel Kader Gangani,M,NA,170,58,Morocco,MAR,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Lightweight,NA
+61366,Abdel Kader Klouchi,M,23,177,70,Algeria,ALG,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Long Jump,NA
+80879,Abdel Kader Mohamed,M,NA,171,72,Morocco,MAR,1964 Summer,1964,Summer,Tokyo,Football,Football Men's Football,NA
+81863,Abdel Kader Morchid,M,NA,170,74,Morocco,MAR,1964 Summer,1964,Summer,Tokyo,Football,Football Men's Football,NA
+82583,Abdel Kader Moukhtatif,M,NA,177,80,Morocco,MAR,1964 Summer,1964,Summer,Tokyo,Football,Football Men's Football,NA
+133637,Abdel Kader Zaddem,M,28,173,60,Tunisia,TUN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 10000 metres,NA
+32185,Abdel Khadr El-Sayed El-Touni,M,28,NA,70.5,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Weightlifting,Weightlifting Men's Lightweight,NA
+32185,Abdel Khadr El-Sayed El-Touni,M,36,NA,70.5,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Middleweight,NA
+475,Abdel Khlik Abou El-Yazi,M,26,NA,NA,Egypt,EGY,1992 Summer,1992,Summer,Barcelona,Hockey,Hockey Men's Hockey,NA
+9877,Abdel Krim Ben Djemil,M,20,190,80,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Handball,Handball Men's Handball,NA
+9877,Abdel Krim Ben Djemil,M,24,190,80,Algeria,ALG,1984 Summer,1984,Summer,Los Angeles,Handball,Handball Men's Handball,NA
+32009,Abdel Krim El-Hadrioui,M,20,NA,NA,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Football,Football Men's Football,NA
+45251,Abdel Krim Hamiche,M,21,180,78,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Handball,Handball Men's Handball,NA
+197,Abdel Latif Abdel Latif,M,28,172,68,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Lightweight Greco-Roman,NA
+1382,Abdel Latif Ahmed,M,24,202,90,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Volleyball,Volleyball Men's Volleyball,NA
+34227,Abdel Latif Fatihi,M,25,188,81,Morocco,MAR,1976 Summer,1976,Summer,Montreal,Boxing,Boxing Men's Light-Heavyweight,NA
+59046,Abdel Latif Khalaf,M,18,165,57,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Bantamweight Greco-Roman,NA
+79128,Abdel Latif Metwalli,M,28,NA,NA,Egypt,EGY,1964 Summer,1964,Summer,Tokyo,Rowing,Rowing Men's Coxed Eights,NA
+73151,Abdel Madjid Mada,M,27,162,50,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 10000 metres,NA
+73151,Abdel Madjid Mada,M,27,162,50,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Marathon,NA
+111952,Abdel Madjid Slimani,M,21,180,78,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Handball,Handball Men's Handball,NA
+29203,Abdel Majid Al-Dolmy,M,31,168,70,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Football,Football Men's Football,NA
+44625,Abdel Majid Hadry,M,NA,175,69,Morocco,MAR,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+66263,Abdel Majid Lamris,M,25,170,68,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Football,Football Men's Football,NA
+81305,Abdel Majid Moncef,M,27,182,68,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 1500 metres,NA
+84252,Abdel Majid Salah Naji,M,23,162,60,Tunisia,TUN,1960 Summer,1960,Summer,Roma,Football,Football Men's Football,NA
+108655,Abdel Majid Senoussi,M,24,173,90,Tunisia,TUN,1984 Summer,1984,Summer,Los Angeles,Judo,Judo Men's Half-Heavyweight,NA
+31916,Abdel Malek El-Aouad,M,24,175,48,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Light-Flyweight Greco-Roman,NA
+31916,Abdel Malek El-Aouad,M,32,175,48,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Wrestling,Wrestling Men's Light-Flyweight Greco-Roman,NA
+132175,Abdel Manaane Yahiaoui,M,25,NA,69,Algeria,ALG,1992 Summer,1992,Summer,Barcelona,Weightlifting,Weightlifting Men's Lightweight,NA
+132175,Abdel Manaane Yahiaoui,M,29,NA,69,Algeria,ALG,1996 Summer,1996,Summer,Atlanta,Weightlifting,Weightlifting Men's Lightweight,NA
+103940,Abdel Mohsen Saad,M,23,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Rowing,Rowing Men's Coxed Eights,NA
+103940,Abdel Mohsen Saad,M,27,NA,NA,Egypt,EGY,1964 Summer,1964,Summer,Tokyo,Rowing,Rowing Men's Coxed Eights,NA
+31996,Abdel Moneim El-Gindy,M,24,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Flyweight,Bronze
+81057,Abdel Moneim Mokhtar,M,NA,NA,NA,Egypt,EGY,1928 Summer,1928,Summer,Amsterdam,Diving,Diving Men's Platform,NA
+127935,Abdel Moneim Wahibi Hassanein,M,24,NA,NA,Egypt,EGY,1936 Summer,1936,Summer,Berlin,Basketball,Basketball Men's Basketball,NA
+32024,Abdel Monem El-Husseini,M,17,173,64,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Fencing,Fencing Men's Foil Individual,NA
+32024,Abdel Monem El-Husseini,M,17,173,64,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Fencing,Fencing Men's Foil Team,NA
+32024,Abdel Monem El-Husseini,M,22,173,64,Egypt,EGY,1988 Summer,1988,Summer,Seoul,Fencing,Fencing Men's Foil Individual,NA
+104700,Abdel Monem Salem,M,29,189,85,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Fencing,Fencing Men's epee Individual,NA
+104700,Abdel Monem Salem,M,29,189,85,Egypt,EGY,1984 Summer,1984,Summer,Los Angeles,Fencing,Fencing Men's epee Team,NA
+32159,Abdel Nabi El-Sayed Mahran,M,26,172,54,Egypt,EGY,1976 Summer,1976,Summer,Montreal,Boxing,Boxing Men's Bantamweight,NA
+32118,Abdel Nasser El-Oulabi,M,20,NA,NA,Syria,SYR,1980 Summer,1980,Summer,Moskva,Wrestling,Wrestling Men's Flyweight Greco-Roman,NA
+21146,Abdel Ouahed Idrissi Chorfi,M,27,NA,NA,Morocco,MAR,1996 Summer,1996,Summer,Atlanta,Judo,Judo Men's Extra-Lightweight,NA
+21146,Abdel Ouahed Idrissi Chorfi,M,31,NA,NA,Morocco,MAR,2000 Summer,2000,Summer,Sydney,Judo,Judo Men's Extra-Lightweight,NA
+1982,Abdel Rahman Al-Kaaki,M,18,182,72,Lebanon,LIB,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 50 metres Freestyle,NA
+52579,Abdel Rahman Hafez Ismail,M,25,NA,NA,Egypt,EGY,1948 Summer,1948,Summer,London,Basketball,Basketball Men's Basketball,NA
+52579,Abdel Rahman Hafez Ismail,M,29,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Basketball,Basketball Men's Basketball,NA
+76196,Abdel Rahman Massad Saleh,M,31,165,62,Sudan,SUD,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 5000 metres,NA
+104600,Abdel Rahman Salah Orabi Abdelgawwad,M,28,185,81,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,NA
+51543,Abdel Razek Ibrahim,M,25,184,70,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Rowing,Rowing Men's Lightweight Coxless Fours,NA
+14072,Abdel Razzak Bounour,M,27,176,60,Algeria,ALG,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 5000 metres,NA
+45230,Abdel Salam Hamdy,M,NA,NA,NA,Egypt,EGY,1920 Summer,1920,Summer,Antwerpen,Football,Football Men's Football,NA
+45230,Abdel Salam Hamdy,M,NA,NA,NA,Egypt,EGY,1924 Summer,1924,Summer,Paris,Football,Football Men's Football,NA
+9905,Abdel Salem Ben Magh Soula,M,23,178,74,Algeria,ALG,1984 Summer,1984,Summer,Los Angeles,Handball,Handball Men's Handball,NA
+9905,Abdel Salem Ben Magh Soula,M,27,178,74,Algeria,ALG,1988 Summer,1988,Summer,Seoul,Handball,Handball Men's Handball,NA
+31994,Abdel Salem El-Ghrissi,M,22,183,80,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Football,Football Men's Football,NA
+183,Abdel Sattar Abdel Hadj,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Rowing,Rowing Men's Coxed Eights,NA
+118559,Abdel Sattar Tarabulsi,M,NA,NA,NA,Lebanon,LIB,1952 Summer,1952,Summer,Helsinki,Shooting,Shooting Men's Free Pistol 50 metres,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Individual All-Around,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Team All-Around,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Floor Exercise,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Horse Vault,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Parallel Bars,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Rings,NA
+109335,Abdel Vares Sharraf,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,NA
+333,Abdel Wahab Abdullah Salih,M,NA,190,75,Sudan,SUD,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Light-Middleweight,NA
+333,Abdel Wahab Abdullah Salih,M,NA,190,75,Sudan,SUD,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Middleweight,NA
+34684,Abdel Wahab Ferguene,M,25,170,65,Algeria,ALG,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 20 kilometres Walk,NA
+34684,Abdel Wahab Ferguene,M,29,170,65,Algeria,ALG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 20 kilometres Walk,NA
+80069,Abdel Wahed Ben Siamar Mimun,M,NA,180,70,Morocco,MAR,1968 Summer,1968,Summer,Mexico City,Basketball,Basketball Men's Basketball,NA
+25396,Abdelali Darra,M,22,NA,49,Morocco,MAR,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Light-Flyweight,NA
+32000,Abdelati El-Guesse,M,23,187,64,Morocco,MAR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,NA
+20146,Abdelatif Chemlal,M,22,170,60,Morocco,MAR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+87092,Abdelatif Noussir,M,22,174,70,Morocco,MAR,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+8040,Abdelaziz Barrada,M,23,180,74,Morocco,MAR,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+32706,Abdelaziz Ennaji El-Idrissi,M,21,NA,NA,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 5000 metres,NA
+80932,Abdelaziz Mohamed Ahmed,M,21,181,72,Sudan,SUD,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,NA
+105511,Abdelaziz Muhammad Sanquor Qambar Al-Mazam,M,23,182,63,United Arab Emirates,UAE,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+121454,Abdelaziz Touilbini,M,29,188,91,Algeria,ALG,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Heavyweight,NA
+175,Abdelgani Hassan Abdel Fattah,M,31,NA,NA,Egypt,EGY,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's Marathon,NA
+132240,Abdelghani Yalouz,M,24,168,69,France,FRA,1992 Summer,1992,Summer,Barcelona,Wrestling,Wrestling Men's Lightweight Greco-Roman,NA
+132240,Abdelghani Yalouz,M,28,168,69,France,FRA,1996 Summer,1996,Summer,Atlanta,Wrestling,Wrestling Men's Lightweight Greco-Roman,Silver
+132240,Abdelghani Yalouz,M,32,168,69,France,FRA,2000 Summer,2000,Summer,Sydney,Wrestling,Wrestling Men's Welterweight Greco-Roman,NA
+27503,Abdelghani Demmou,M,27,185,75,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Men's Football,NA
+68305,Abdelhadi Legdali,M,26,NA,NA,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Table Tennis,Table Tennis Men's Singles,NA
+9968,Abdelhafid Benchabla,M,21,184,81,Algeria,ALG,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Light-Heavyweight,NA
+9968,Abdelhafid Benchabla,M,25,184,81,Algeria,ALG,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Light-Heavyweight,NA
+9968,Abdelhafid Benchabla,M,29,184,81,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Light-Heavyweight,NA
+48,Abdelhak Aatakni,M,24,NA,64,Morocco,MAR,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Light-Welterweight,NA
+14003,Abdelhak Bouhalissa,M,27,174,74,Algeria,ALG,1988 Summer,1988,Summer,Seoul,Handball,Handball Men's Handball,NA
+72764,Abdelhak Maach,M,NA,175,NA,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Judo,Judo Men's Lightweight,NA
+11833,Abdelhakim Bitat,M,16,176,66,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,NA
+72801,Abdelhakim Maazouz,M,28,176,62,Algeria,ALG,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+468,Abdelhalim Muhammad Abou,M,27,210,88,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Volleyball,Volleyball Men's Volleyball,NA
+90136,Abdelhalim Ourradi,M,27,170,54,Algeria,ALG,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Bantamweight,NA
+31896,Abdelhamid El Kaoutari,M,22,178,72,Morocco,MAR,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+85761,Abdelillah Nhaila,M,26,NA,51,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Flyweight,NA
+135297,Abdelkader Al-Zrouri,M,27,197,100,Morocco,MAR,2004 Summer,2004,Summer,Athina,Taekwondo,Taekwondo Men's Heavyweight,NA
+135297,Abdelkader Al-Zrouri,M,31,197,100,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Taekwondo,Taekwondo Men's Heavyweight,NA
+19536,Abdelkader Chadi,M,21,175,60,Algeria,ALG,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Featherweight,NA
+19536,Abdelkader Chadi,M,25,175,60,Algeria,ALG,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Lightweight,NA
+19536,Abdelkader Chadi,M,29,175,60,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,NA
+44552,Abdelkader Hachlaf,M,30,182,68,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+127930,Abdelkader Wahabi,M,28,168,66,Belgium,BEL,1992 Summer,1992,Summer,Barcelona,Boxing,Boxing Men's Light-Welterweight,NA
+31891,Abdel-Karim El Haouari,M,18,171,NA,Morocco,MAR,2012 Summer,2012,Summer,London,Fencing,Fencing Men's epee Individual,NA
+104558,Abdel-Karim Muhammad Mahmoud Ezzat Sakr,M,15,NA,NA,Egypt,EGY,1936 Summer,1936,Summer,Berlin,Football,Football Men's Football,NA
+104558,Abdel-Karim Muhammad Mahmoud Ezzat Sakr,M,27,NA,NA,Egypt,EGY,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+90052,Abdelkebir Ouaddar,M,54,174,67,Morocco,MAR,2016 Summer,2016,Summer,Rio de Janeiro,Equestrianism,Equestrianism Mixed Jumping Individual,NA
+31937,Abdelkhalek El-Banna,M,28,193,95,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Single Sculls,NA
+9393,Abdellah Bhar,M,33,171,58,France,FRA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 10000 metres,NA
+9393,Abdellah Bhar,M,37,171,58,France,FRA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,NA
+33877,Abdellah Falil,M,32,163,63,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 10000 metres,NA
+66261,Abdellah Lamrani,M,NA,177,68,Morocco,MAR,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+118526,Abdellah Taouane,M,21,182,63,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Welterweight,NA
+118526,Abdellah Taouane,M,24,182,63,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Boxing,Boxing Men's Welterweight,NA
+120228,Abdellah Tibazi,M,NA,178,71,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Boxing,Boxing Men's Light-Middleweight,NA
+78143,Abdellatif Meftah,M,30,173,59,France,FRA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,NA
+80880,Abdellatif Mohamed Ahmed Mohamed,M,20,176,120,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Wrestling,Wrestling Men's Super-Heavyweight Greco-Roman,NA
+20555,Abdelmajid Al-Chetali,M,21,177,67,Tunisia,TUN,1960 Summer,1960,Summer,Roma,Football,Football Men's Football,NA
+32020,Abdelmajid El-Hissouf,M,23,170,56,Morocco,MAR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,NA
+90116,Abdelmajid Oulmers,M,22,170,66,Morocco,MAR,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,NA
+98385,Abdelmalek Rahou,M,26,180,NA,Algeria,ALG,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Middleweight,NA
+65938,Abdelmalik Lahoulou,M,24,177,72,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 400 metres Hurdles,NA
+32140,Abdelrahman El-Sayed,M,19,NA,105,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Weightlifting,Weightlifting Men's Heavyweight,NA
+123537,Abdelrahman Usama Tawfiq Ahmed,M,23,176,80,Egypt,EGY,2012 Summer,2012,Summer,London,Taekwondo,Taekwondo Men's Welterweight,NA
+32187,Abdelrahman Yahia Abdulsalam Muhammad El-Trabily,M,22,190,120,Egypt,EGY,2012 Summer,2012,Summer,London,Wrestling,Wrestling Men's Super-Heavyweight Greco-Roman,NA
+10092,Abdelraouf Benguit,M,20,170,65,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Men's Football,NA
+14084,Abderrahhime Bouramdane,M,30,170,58,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,NA
+14084,Abderrahhime Bouramdane,M,34,170,58,Morocco,MAR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,NA
+42078,Abderrahim Al-Goumri,M,28,167,60,Morocco,MAR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 5000 metres,NA
+42078,Abderrahim Al-Goumri,M,32,167,60,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,NA
+9917,Abderrahim Ben Redouane,M,30,165,58,Morocco,MAR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,NA
+31892,Abderrahim El Haouzy,M,29,187,72,France,FRA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+65914,Abderrahim Lahcinia,M,24,190,NA,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Judo,Judo Men's Heavyweight,NA
+84255,Abderrahim Najm,M,21,168,48,Morocco,MAR,1976 Summer,1976,Summer,Montreal,Boxing,Boxing Men's Light-Flyweight,NA
+118960,Abderrahim Tazi,M,NA,172,70.5,Morocco,MAR,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Lightweight,NA
+118960,Abderrahim Tazi,M,NA,172,70.5,Morocco,MAR,1964 Summer,1964,Summer,Tokyo,Weightlifting,Weightlifting Men's Middleweight,NA
+9862,Abderrahman Ben Azzedine,M,26,165,65,Tunisia,TUN,1960 Summer,1960,Summer,Roma,Football,Football Men's Football,NA
+83972,Abderrahman Naanaa,M,23,165,54,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Flyweight Greco-Roman,NA
+83972,Abderrahman Naanaa,M,27,165,54,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Wrestling,Wrestling Men's Bantamweight Greco-Roman,NA
+108130,Abderrahman Sebti,M,44,178,67,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's Foil Team,NA
+108130,Abderrahman Sebti,M,44,178,67,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's epee Individual,NA
+108130,Abderrahman Sebti,M,44,178,67,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's epee Team,NA
+108130,Abderrahman Sebti,M,44,178,67,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's Sabre Individual,NA
+108130,Abderrahman Sebti,M,44,178,67,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's Sabre Team,NA
+9948,Abderrahmane Benamadi,M,31,183,90,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Middleweight,NA
+24918,Abderrahmane Daidj,M,27,181,72,Algeria,ALG,2004 Summer,2004,Summer,Athina,Fencing,Fencing Men's epee Individual,NA
+27739,Abderrahmane Derouaz,M,24,180,72,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Football,Football Men's Football,NA
+45314,Abderrahmane Hammad Zaheer,M,23,189,70,Algeria,ALG,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's High Jump,Bronze
+45314,Abderrahmane Hammad Zaheer,M,27,189,70,Algeria,ALG,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's High Jump,NA
+74591,Abderrahmane Mansouri,M,21,173,66,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Cycling,Cycling Men's Road Race Individual,NA
+81860,Abderrahmane Morceli,M,23,171,61,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 1500 metres,NA
+81860,Abderrahmane Morceli,M,27,171,61,Algeria,ALG,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 1500 metres,NA
+108107,Abderrahmane Sebbar,M,NA,175,70,Morocco,MAR,1968 Summer,1968,Summer,Mexico City,Basketball,Basketball Men's Basketball,NA
+14938,Abderramn Brenes la Roche,M,29,180,81,Puerto Rico,PUR,2008 Summer,2008,Summer,Beijing,Judo,Judo Men's Half-Middleweight,NA
+9922,Abderraouf Ben Samir,M,18,190,91,Tunisia,TUN,1972 Summer,1972,Summer,Munich,Handball,Handball Men's Handball,NA
+9922,Abderraouf Ben Samir,M,22,190,91,Tunisia,TUN,1976 Summer,1976,Summer,Montreal,Handball,Handball Men's Handball,NA
+31969,Abderraouf El-Fassy,M,20,170,55,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's Foil Individual,NA
+31969,Abderraouf El-Fassy,M,20,170,55,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's Foil Team,NA
+31969,Abderraouf El-Fassy,M,20,170,55,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's epee Team,NA
+31969,Abderraouf El-Fassy,M,20,170,55,Morocco,MAR,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's Sabre Team,NA
+65879,Abderraouf Laghrissi,M,NA,183,70,Morocco,MAR,1968 Summer,1968,Summer,Mexico City,Basketball,Basketball Men's Basketball,NA
+9908,Abderrazak Ben Massaoud,M,26,186,75,Tunisia,TUN,1988 Summer,1988,Summer,Seoul,Volleyball,Volleyball Men's Volleyball,NA
+19560,Abderrazak Chahat,M,26,180,76,Tunisia,TUN,1988 Summer,1988,Summer,Seoul,Football,Football Men's Football,NA
+50281,Abderrazak Houya,M,25,177,NA,Tunisia,TUN,2012 Summer,2012,Summer,London,Boxing,Boxing Men's Light-Welterweight,NA
+86173,Abderrazak Nijam,M,NA,172,72,Morocco,MAR,1964 Summer,1964,Summer,Tokyo,Football,Football Men's Football,NA
+9662,Abderzak Bella,M,21,NA,NA,Algeria,ALG,1992 Summer,1992,Summer,Barcelona,Swimming,Swimming Men's 100 metres Breaststroke,NA
+9662,Abderzak Bella,M,21,NA,NA,Algeria,ALG,1992 Summer,1992,Summer,Barcelona,Swimming,Swimming Men's 200 metres Breaststroke,NA
+25369,Abdeslem Dargouth,M,24,171,62,Tunisia,TUN,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 800 metres,NA
+5259,Abdessalem Arous,M,21,180,81,Tunisia,TUN,2000 Summer,2000,Summer,Sydney,Judo,Judo Men's Half-Middleweight,NA
+65930,Abdesselem Lahmidi,M,NA,180,68,Morocco,MAR,1960 Summer,1960,Summer,Roma,Shooting,Shooting Men's Small-Bore Rifle Three Positions 50 metres,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Individual All-Around,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Team All-Around,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Floor Exercise,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Horse Vault,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Parallel Bars,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Horizontal Bar,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Rings,NA
+99601,Abdesselem Regragui,M,NA,169,70,Morocco,MAR,1960 Summer,1960,Summer,Roma,Gymnastics,Gymnastics Men's Pommelled Horse,NA
+11487,Abdi Bile Abdi,M,19,185,75,Somalia,SOM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,NA
+11487,Abdi Bile Abdi,M,19,185,75,Somalia,SOM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 1500 metres,NA
+11487,Abdi Bile Abdi,M,31,185,75,Somalia,SOM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 1500 metres,NA
+123220,Abdi Hakin Achkel Ulad,M,25,175,57,Denmark,DEN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,NA
+52414,Abdi Isak,M,30,NA,NA,Somalia,SOM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,NA
+84114,Abdi Nageeye,M,27,165,54,Netherlands,NED,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,NA
+82578,Abdi Waiss Mouhyadin,M,20,160,60,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 1500 metres,NA
+256,Abdihakim Abdirahman,M,23,178,61,United States,USA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 10000 metres,NA
+256,Abdihakim Abdirahman,M,27,178,61,United States,USA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 10000 metres,NA
+256,Abdihakim Abdirahman,M,31,178,61,United States,USA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 10000 metres,NA
+256,Abdihakim Abdirahman,M,35,178,61,United States,USA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,NA
+19482,Abdil Ceylan,M,25,178,60,Turkey,TUR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,NA
+51544,Abdinasir Said Ibrahim,M,18,179,70,Somalia,SOM,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 5000 metres,NA
+19618,Abdollah Chamangoli,M,20,NA,NA,Iran,IRI,1992 Summer,1992,Summer,Barcelona,Wrestling,Wrestling Men's Lightweight Greco-Roman,NA
+34213,Abdollah Fatemi Rika,M,33,NA,98,Iran,IRI,1992 Summer,1992,Summer,Barcelona,Weightlifting,Weightlifting Men's Heavyweight I,NA
+90922,Abdon Pamich,M,23,184,72,Italy,ITA,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 20 kilometres Walk,NA
+90922,Abdon Pamich,M,23,184,72,Italy,ITA,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 50 kilometres Walk,NA
+90922,Abdon Pamich,M,26,184,72,Italy,ITA,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 50 kilometres Walk,Bronze
+90922,Abdon Pamich,M,31,184,72,Italy,ITA,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 50 kilometres Walk,Gold
+90922,Abdon Pamich,M,35,184,72,Italy,ITA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 50 kilometres Walk,NA
+90922,Abdon Pamich,M,38,184,72,Italy,ITA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 50 kilometres Walk,NA
+2272,Abdou Alassane Dji Bo,M,25,NA,66,Niger,NIG,2004 Summer,2004,Summer,Athina,Judo,Judo Men's Half-Lightweight,NA
+33898,Abdou Fall,M,NA,173,60,Senegal,SEN,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Light-Welterweight,NA
+34335,Abdou Faye,M,NA,170,54,Senegal,SEN,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Featherweight,NA
+133255,Abdou Ibrahim Youssef,M,18,178,60,Qatar,QAT,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,NA
+113512,Abdou Mamadou Sow,M,25,181,55,Senegal,SEN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+74668,Abdou Manzo,M,NA,NA,NA,Niger,NIG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,NA
+74668,Abdou Manzo,M,NA,NA,NA,Niger,NIG,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,NA
+74668,Abdou Manzo,M,NA,NA,NA,Niger,NIG,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,NA
+108454,Abdou Selim,M,NA,NA,NA,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Football,Football Men's Football,NA
+121676,Abdou Traor,M,23,NA,NA,Mali,MLI,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,NA
+45260,Abdoukerim Hamidou,M,23,172,67,Togo,TOG,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Welterweight,NA
+108141,Abdoul Karim Seck,M,29,NA,NA,Senegal,SEN,1996 Summer,1996,Summer,Atlanta,Judo,Judo Men's Half-Lightweight,NA
+85772,Abdoul Khadre Mbaye Niane,M,27,190,90,Senegal,SEN,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,NA
+2610,Abdoul Razak Issoufou Alfaga,M,21,207,90,Niger,NIG,2016 Summer,2016,Summer,Rio de Janeiro,Taekwondo,Taekwondo Men's Heavyweight,Silver
+109018,Abdoulaye Sye Papa,M,26,174,68,France,FRA,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 100 metres,NA
+109018,Abdoulaye Sye Papa,M,26,174,68,France,FRA,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 200 metres,Bronze
+109018,Abdoulaye Sye Papa,M,26,174,68,France,FRA,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+6375,Abdoulaye Ba,M,21,197,79,Senegal,SEN,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+28152,Abdoulaye Diallo,M,29,167,71,Guinea,GUI,1980 Summer,1980,Summer,Moskva,Judo,Judo Men's Lightweight,NA
+28152,Abdoulaye Diallo,M,33,167,71,Guinea,GUI,1984 Summer,1984,Summer,Los Angeles,Judo,Judo Men's Half-Middleweight,NA
+28870,Abdoulaye Djiba,M,34,183,89,Senegal,SEN,1972 Summer,1972,Summer,Munich,Judo,Judo Men's Open Class,NA
+28870,Abdoulaye Djiba,M,38,183,89,Senegal,SEN,1976 Summer,1976,Summer,Montreal,Judo,Judo Men's Half-Heavyweight,NA
+28870,Abdoulaye Djiba,M,38,183,89,Senegal,SEN,1976 Summer,1976,Summer,Montreal,Judo,Judo Men's Open Class,NA
+63186,Abdoulaye Kote,M,21,191,98,Senegal,SEN,1976 Summer,1976,Summer,Montreal,Judo,Judo Men's Heavyweight,NA
+63186,Abdoulaye Kote,M,25,191,98,Senegal,SEN,1980 Summer,1980,Summer,Moskva,Judo,Judo Men's Heavyweight,NA
+63186,Abdoulaye Kote,M,25,191,98,Senegal,SEN,1980 Summer,1980,Summer,Moskva,Judo,Judo Men's Open Class,NA
+84885,Abdoulaye N'Diaye,M,23,163,63,Senegal,SEN,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 100 metres,NA
+28153,Abdoulaye Samba Diallo,M,NA,190,78,Senegal,SEN,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Triple Jump,NA
+105842,Abdoulaye Sarr,M,24,192,82,Senegal,SEN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 110 metres Hurdles,NA
+105842,Abdoulaye Sarr,M,28,192,82,Senegal,SEN,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 110 metres Hurdles,NA
+105842,Abdoulaye Sarr,M,32,192,82,Senegal,SEN,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 110 metres Hurdles,NA
+119598,Abdoulaye Thera,M,24,NA,65,Mali,MLI,1980 Summer,1980,Summer,Moskva,Judo,Judo Men's Half-Lightweight,NA
+119628,Abdoulaye Thiam,M,24,183,NA,Senegal,SEN,2008 Summer,2008,Summer,Beijing,Fencing,Fencing Men's Sabre Individual,NA
+121677,Abdoulaye Traor,M,25,NA,NA,Mali,MLI,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Long Jump,NA
+121677,Abdoulaye Traor,M,25,NA,NA,Mali,MLI,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Triple Jump,NA
+127868,Abdoulaye Wagne,M,23,186,77,Senegal,SEN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,NA
+127868,Abdoulaye Wagne,M,27,186,77,Senegal,SEN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,NA
+7439,Abdoullah Bamoussa,M,30,170,59,Italy,ITA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+28211,Abdourahamane Diawara,M,25,181,NA,Guinea,GUI,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 50 metres Freestyle,NA
+89771,Abdourahman Osman,M,18,NA,NA,Djibouti,DJI,2012 Summer,2012,Summer,London,Swimming,Swimming Men's 50 metres Freestyle,NA
+84886,Abdourahmane N'Diaye,M,19,187,NA,Senegal,SEN,1972 Summer,1972,Summer,Munich,Basketball,Basketball Men's Basketball,NA
+59211,Abdul Ahad Kharot,M,NA,NA,NA,Afghanistan,AFG,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+73410,Abdul Ali Maghoub,M,NA,NA,NA,Egypt,EGY,1920 Summer,1920,Summer,Antwerpen,Athletics,Athletics Men's 5000 metres,NA
+2046,Abdul Al-Matrouk,M,23,NA,NA,Kuwait,KUW,1996 Summer,1996,Summer,Atlanta,Diving,Diving Men's Platform,NA
+2092,Abdul Atif Seif Al-Qahtani,M,26,172,70,Saudi Arabia,KSA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's Javelin Throw,NA
+1783,Abdul Azim Mohamed Al-Aliwat,M,21,155,NA,Saudi Arabia,KSA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Javelin Throw,NA
+6325,Abdul Aziz,M,21,NA,NA,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Wrestling,Wrestling Men's Flyweight Freestyle,NA
+6326,Abdul Aziz,M,27,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's 100 metres,NA
+6326,Abdul Aziz,M,27,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's 200 metres,NA
+6326,Abdul Aziz,M,27,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+6326,Abdul Aziz,M,32,NA,NA,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 200 metres,NA
+6326,Abdul Aziz,M,32,NA,NA,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+2034,Abdul Aziz Al-Marzoug,M,21,NA,NA,Saudi Arabia,KSA,1996 Summer,1996,Summer,Atlanta,Football,Football Men's Football,NA
+3058,Abdul Aziz Alpak,M,25,180,105,Turkey,TUR,2000 Summer,2000,Summer,Sydney,Weightlifting,Weightlifting Men's Heavyweight,NA
+286,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,23,169,60,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 200 metres,NA
+286,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,23,169,60,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+53456,Abdul Aziz Hassan Jalouf,M,19,NA,NA,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Football,Football Men's Football,NA
+74061,Abdul Aziz Malik,M,32,NA,NA,Pakistan,PAK,1948 Summer,1948,Summer,London,Hockey,Hockey Men's Hockey,NA
+74061,Abdul Aziz Malik,M,36,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Hockey,Hockey Men's Hockey,NA
+127974,Abdul Aziz Wains,M,28,162,60,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Shooting,Shooting Men's Free Rifle Three Positions 300 metres,NA
+133753,Abdul Aziz Zakari,M,19,178,73,Ghana,GHA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+133753,Abdul Aziz Zakari,M,24,178,73,Ghana,GHA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 100 metres,NA
+133753,Abdul Aziz Zakari,M,24,178,73,Ghana,GHA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+133753,Abdul Aziz Zakari,M,27,178,73,Ghana,GHA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 100 metres,NA
+133753,Abdul Aziz Zakari,M,27,178,73,Ghana,GHA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+133753,Abdul Aziz Zakari,M,31,178,73,Ghana,GHA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 100 metres,NA
+98389,Abdul Bahar-ud-Din Rahum,M,22,164,58,Malaysia,MAS,1972 Summer,1972,Summer,Munich,Cycling,Cycling Men's Road Race Individual,NA
+98389,Abdul Bahar-ud-Din Rahum,M,22,164,58,Malaysia,MAS,1972 Summer,1972,Summer,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,NA
+128848,Abdul Baser Wasiqi,M,21,NA,NA,Afghanistan,AFG,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,NA
+98358,Abdul Breesam Rahman,M,NA,NA,NA,Iraq,IRQ,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Light-Heavyweight Greco-Roman,NA
+98358,Abdul Breesam Rahman,M,NA,NA,NA,Iraq,IRQ,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Light-Heavyweight Freestyle,NA
+16223,Abdul Buhari,M,30,192,125,Great Britain,GBR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Discus Throw,NA
+84614,Abdul Fatah Nasif Jassim,M,28,182,78,Iraq,IRQ,1980 Summer,1980,Summer,Moskva,Football,Football Men's Football,NA
+45882,Abdul Fattah Haona,M,26,NA,NA,Syria,SYR,1980 Summer,1980,Summer,Moskva,Football,Football Men's Football,NA
+104617,Abdul Ganiyu Salami,M,26,180,71,Nigeria,NGR,1968 Summer,1968,Summer,Mexico City,Football,Football Men's Football,NA
+39922,Abdul Ghafar Ghafoori,M,22,172,70,Afghanistan,AFG,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+39920,Abdul Ghafoor,M,26,NA,NA,Afghanistan,AFG,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 100 metres,NA
+5678,Abdul Ghafoor Assar,M,NA,NA,NA,Afghanistan,AFG,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+59130,Abdul Ghafoor Khan,M,NA,NA,NA,Pakistan,PAK,1948 Summer,1948,Summer,London,Hockey,Hockey Men's Hockey,NA
+133559,Abdul Ghafoor Yusufzai,M,NA,NA,NA,Afghanistan,AFG,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+5679,Abdul Ghani Assar,M,NA,NA,NA,Afghanistan,AFG,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+16944,Abdul Ghani Butt,M,21,165,70,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Lightweight,NA
+104315,Abdul Ghasem Sahkdari,M,NA,NA,NA,Iran,IRI,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Heavyweight Freestyle,NA
+109486,Abdul Hadi Shekaib,M,20,178,68,Afghanistan,AFG,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 100 metres,NA
+109486,Abdul Hadi Shekaib,M,20,178,68,Afghanistan,AFG,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+289,Abdul Haji Abdul Latheef,M,17,168,54,Maldives,MDV,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,NA
+128736,Abdul Hakim Wardak,M,20,179,75,Afghanistan,AFG,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 110 metres Hurdles,NA
+128736,Abdul Hakim Wardak,M,20,179,75,Afghanistan,AFG,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Javelin Throw,NA
+120763,Abdul Halim Tokmakiolu,M,23,NA,NA,Turkey,TUR,1936 Summer,1936,Summer,Berlin,Fencing,Fencing Men's Sabre Team,NA
+45252,Abdul Hamid,M,21,175,68,Pakistan,PAK,1948 Summer,1948,Summer,London,Hockey,Hockey Men's Hockey,NA
+45252,Abdul Hamid,M,25,175,68,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Hockey,Hockey Men's Hockey,NA
+45252,Abdul Hamid,M,29,175,68,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Hockey,Hockey Men's Hockey,Silver
+45252,Abdul Hamid,M,33,175,68,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Hockey,Hockey Men's Hockey,Gold
+45253,Abdul Hamid,M,22,163,64,Pakistan,PAK,1964 Summer,1964,Summer,Tokyo,Hockey,Hockey Men's Hockey,Silver
+34220,Abdul Hamid Fathi,M,28,178,75,Iran,IRI,1976 Summer,1976,Summer,Montreal,Fencing,Fencing Men's Sabre Individual,NA
+34220,Abdul Hamid Fathi,M,28,178,75,Iran,IRI,1976 Summer,1976,Summer,Montreal,Fencing,Fencing Men's Sabre Team,NA
+59131,Abdul Hamid Khan,M,26,165,65,Singapore,SGP,1992 Summer,1992,Summer,Barcelona,Badminton,Badminton Men's Singles,NA
+59131,Abdul Hamid Khan,M,26,165,65,Singapore,SGP,1992 Summer,1992,Summer,Barcelona,Badminton,Badminton Men's Doubles,NA
+117860,Abdul Hamid Tajik,M,NA,NA,NA,Afghanistan,AFG,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+59132,Abdul Haseem Khan,M,25,NA,NA,Pakistan,PAK,2012 Summer,2012,Summer,London,Hockey,Hockey Men's Hockey,NA
+52580,Abdul Ismail,M,31,NA,NA,Mozambique,MOZ,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 110 metres Hurdles,NA
+98342,Abdul Jabbar Rahima,M,26,188,81,Iraq,IRQ,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 110 metres Hurdles,NA
+24761,Abdul Kader Dabo,M,22,NA,NA,Mali,MLI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Half-Middleweight,NA
+87370,Abdul Kadir Nuristani,M,NA,NA,NA,Afghanistan,AFG,1948 Summer,1948,Summer,London,Hockey,Hockey Men's Hockey,NA
+87370,Abdul Kadir Nuristani,M,NA,NA,NA,Afghanistan,AFG,1956 Summer,1956,Summer,Melbourne,Hockey,Hockey Men's Hockey,NA
+1811,Abdul Kareem Salah Al-Awad,M,22,170,63,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 100 metres,NA
+1811,Abdul Kareem Salah Al-Awad,M,22,170,63,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+57549,Abdul Karim,M,25,163,66,Indonesia,INA,1992 Summer,1992,Summer,Barcelona,Canoeing,Canoeing Men's Kayak Doubles 500 metres,NA
+57549,Abdul Karim,M,25,163,66,Indonesia,INA,1992 Summer,1992,Summer,Barcelona,Canoeing,Canoeing Men's Kayak Doubles 1000 metres,NA
+25328,Abdul Karim Daoud,M,18,165,62,North Yemen,YAR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 10000 metres,NA
+40642,Abdul Karim Gizar,M,NA,NA,56,Iraq,IRQ,1980 Summer,1980,Summer,Moskva,Weightlifting,Weightlifting Men's Bantamweight,NA
+56017,Abdul Karim Joumaa,M,26,NA,NA,Syria,SYR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+56756,Abdul Karim Kakahaji,M,26,158,52,Iran,IRI,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Flyweight Greco-Roman,NA
+3548,Abdul Karim Ohimai Amu,M,23,185,77,Nigeria,NGR,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 400 metres,NA
+3548,Abdul Karim Ohimai Amu,M,23,185,77,Nigeria,NGR,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+3548,Abdul Karim Ohimai Amu,M,26,185,77,Nigeria,NGR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 400 metres,NA
+3548,Abdul Karim Ohimai Amu,M,26,185,77,Nigeria,NGR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+3548,Abdul Karim Ohimai Amu,M,30,185,77,Nigeria,NGR,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+100102,Abdul Karim Ressang,M,20,NA,NA,Netherlands,NED,1976 Summer,1976,Summer,Montreal,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,NA
+100102,Abdul Karim Ressang,M,20,NA,NA,Netherlands,NED,1976 Summer,1976,Summer,Montreal,Swimming,Swimming Men's 200 metres Backstroke,NA
+24804,Abdul Khadre Daff,M,22,180,90,Senegal,SEN,1984 Summer,1984,Summer,Los Angeles,Judo,Judo Men's Half-Heavyweight,NA
+56162,Abdul Khalik Juad,M,33,180,123,Iraq,IRQ,1964 Summer,1964,Summer,Tokyo,Weightlifting,Weightlifting Men's Heavyweight,NA
+59084,Abdul Khaliq,M,23,171,69,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 100 metres,NA
+59084,Abdul Khaliq,M,23,171,69,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 200 metres,NA
+59084,Abdul Khaliq,M,23,171,69,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+59084,Abdul Khaliq,M,27,171,69,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 100 metres,NA
+59084,Abdul Khaliq,M,27,171,69,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 200 metres,NA
+59084,Abdul Khaliq,M,27,171,69,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+1383,Abdul Lahij Ahmed,M,NA,175,55,Somalia,SOM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Marathon,NA
+109,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,23,176,64,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 400 metres Hurdles,NA
+109,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,23,176,64,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+109,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,27,176,64,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 400 metres Hurdles,NA
+80214,Abdul Latif Mir,M,36,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Hockey,Hockey Men's Hockey,NA
+1847,Abdul Latif Mohamed Al-Bulushi,M,28,169,69,Oman,OMA,1984 Summer,1984,Summer,Los Angeles,Shooting,Shooting Men's Air Rifle 10 metres,NA
+1847,Abdul Latif Mohamed Al-Bulushi,M,28,169,69,Oman,OMA,1984 Summer,1984,Summer,Los Angeles,Shooting,Shooting Men's Small-Bore Rifle Three Positions 50 metres,NA
+1847,Abdul Latif Mohamed Al-Bulushi,M,32,169,69,Oman,OMA,1988 Summer,1988,Summer,Seoul,Shooting,Shooting Men's Air Rifle 10 metres,NA
+103081,Abdul Latif Muhammad Al-Rozaihan,M,NA,165,65,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Judo,Judo Men's Half-Lightweight,NA
+2052,Abdul Majeed Al-Mosawi,M,18,165,65,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 100 metres,NA
+74060,Abdul Majeed Malik,M,20,172,63,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 110 metres Hurdles,NA
+74060,Abdul Majeed Malik,M,20,172,63,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+73745,Abdul Majeed Maruwala,M,21,175,90,Pakistan,PAK,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Light-Heavyweight Freestyle,NA
+73745,Abdul Majeed Maruwala,M,25,175,90,Pakistan,PAK,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Light-Heavyweight Freestyle,NA
+33806,Abdul Malik Faisal,M,21,172,66,Indonesia,INA,1988 Summer,1988,Summer,Seoul,Sailing,Sailing Mixed Windsurfer,NA
+74565,Abdul Mansaray,M,22,178,64,Sierra Leone,SLE,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+2196,Abdul Marzouk Al-Yoha,M,19,182,72,Kuwait,KUW,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Triple Jump,NA
+2196,Abdul Marzouk Al-Yoha,M,23,182,72,Kuwait,KUW,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Triple Jump,NA
+1821,Abdul Mohsen Al-Bagir,M,28,158,69,Saudi Arabia,KSA,2004 Summer,2004,Summer,Athina,Weightlifting,Weightlifting Men's Lightweight,NA
+2656,Abdul Muhsen Ali,M,19,182,78,Kuwait,KUW,1996 Summer,1996,Summer,Atlanta,Fencing,Fencing Men's Foil Individual,NA
+2656,Abdul Muhsen Ali,M,23,182,78,Kuwait,KUW,2000 Summer,2000,Summer,Sydney,Fencing,Fencing Men's Foil Individual,NA
+2081,Abdul Nasser Ali Al-Obaidly,M,19,NA,NA,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Football,Football Men's Football,NA
+2137,Abdul Nasser Al-Sayegh,M,17,180,70,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Fencing,Fencing Men's Foil Individual,NA
+2137,Abdul Nasser Al-Sayegh,M,17,180,70,Kuwait,KUW,1976 Summer,1976,Summer,Montreal,Fencing,Fencing Men's Foil Team,NA
+2137,Abdul Nasser Al-Sayegh,M,25,180,70,Kuwait,KUW,1984 Summer,1984,Summer,Los Angeles,Fencing,Fencing Men's epee Team,NA
+89046,Abdul Omar,M,22,NA,NA,Ghana,GHA,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Bantamweight,NA
+59133,Abdul Qayyum Khan,M,NA,NA,NA,Pakistan,PAK,1948 Summer,1948,Summer,London,Hockey,Hockey Men's Hockey,NA
+1912,Abdul Raab Al-Ghadi,M,21,170,65,North Yemen,YAR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,NA
+98340,Abdul Rahim,M,23,NA,NA,Afghanistan,AFG,1936 Summer,1936,Summer,Berlin,Athletics,Athletics Men's Shot Put,NA
+11569,Abdul Rahim bin Ahmed,M,23,NA,NA,Malaya,MAL,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 400 metres,NA
+116330,Abdul Rahman Ahmed Suleiman,M,20,180,62,Qatar,QAT,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 1500 metres,NA
+1765,Abdul Rahman Hassan Al-Abdullah,M,18,178,65,Qatar,QAT,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,NA
+54021,Abdul Rahman Jassim,M,NA,NA,NA,Bahrain,BRN,1984 Summer,1984,Summer,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Individual,NA
+54021,Abdul Rahman Jassim,M,NA,NA,NA,Bahrain,BRN,1984 Summer,1984,Summer,Los Angeles,Modern Pentathlon,Modern Pentathlon Men's Team,NA
+59060,Abdul Rahman Khalid,M,22,180,69,Bahrain,BRN,1988 Summer,1988,Summer,Seoul,Modern Pentathlon,Modern Pentathlon Men's Individual,NA
+59060,Abdul Rahman Khalid,M,22,180,69,Bahrain,BRN,1988 Summer,1988,Summer,Seoul,Modern Pentathlon,Modern Pentathlon Men's Team,NA
+59060,Abdul Rahman Khalid,M,22,180,69,Bahrain,BRN,1988 Summer,1988,Summer,Seoul,Fencing,Fencing Men's epee Individual,NA
+59060,Abdul Rahman Khalid,M,22,180,69,Bahrain,BRN,1988 Summer,1988,Summer,Seoul,Fencing,Fencing Men's epee Team,NA
+59080,Abdul Rahman Khalili,M,24,181,71,Sweden,SWE,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Men's Football,NA
+80948,Abdul Rahman Mohammed,M,NA,175,82,Iraq,IRQ,1980 Summer,1980,Summer,Moskva,Wrestling,Wrestling Men's Middleweight Freestyle,NA
+89047,Abdul Rahman Omar,M,26,178,70,Kenya,KEN,1972 Summer,1972,Summer,Munich,Shooting,Shooting Mixed Free Pistol 50 metres,NA
+110326,Abdul Rahman Sifeen,M,22,NA,NA,Saudi Arabia,KSA,1996 Summer,1996,Summer,Atlanta,Football,Football Men's Football,NA
+2079,Abdul Rahman Sultan Al-Nubi Faraj,M,20,192,77,Qatar,QAT,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Long Jump,NA
+2079,Abdul Rahman Sultan Al-Nubi Faraj,M,24,192,77,Qatar,QAT,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's Long Jump,NA
+98967,Abdul Rashid,M,29,184,70,Pakistan,PAK,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 110 metres Hurdles,NA
+98968,Abdul Rashid,M,21,170,75,Pakistan,PAK,1968 Summer,1968,Summer,Mexico City,Hockey,Hockey Men's Hockey,Gold
+98968,Abdul Rashid,M,25,170,75,Pakistan,PAK,1972 Summer,1972,Summer,Munich,Hockey,Hockey Men's Hockey,Silver
+98968,Abdul Rashid,M,29,170,75,Pakistan,PAK,1976 Summer,1976,Summer,Montreal,Hockey,Hockey Men's Hockey,Bronze
+98969,Abdul Rashid,M,24,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's 10000 metres,NA
+98969,Abdul Rashid,M,28,NA,NA,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's Marathon,NA
+1949,Abdul Rashid Al-Hasan,M,25,170,63,Pakistan,PAK,1984 Summer,1984,Summer,Los Angeles,Hockey,Hockey Men's Hockey,Gold
+7351,Abdul Rashid Baloch,M,24,175,67,Pakistan,PAK,1996 Summer,1996,Summer,Atlanta,Boxing,Boxing Men's Welterweight,NA
+97736,Abdul Rashid Qambrani,M,21,158,48,Pakistan,PAK,1996 Summer,1996,Summer,Atlanta,Boxing,Boxing Men's Light-Flyweight,NA
+99298,Abdul Razak,M,27,163,59,Indonesia,INA,1992 Summer,1992,Summer,Barcelona,Canoeing,Canoeing Men's Kayak Doubles 500 metres,NA
+99298,Abdul Razak,M,27,163,59,Indonesia,INA,1992 Summer,1992,Summer,Barcelona,Canoeing,Canoeing Men's Kayak Doubles 1000 metres,NA
+464,Abdul Razzak Aboobakur,M,25,168,59,Maldives,MDV,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+7352,Abdul Razzaq Baloch,M,24,178,68,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Cycling,Cycling Men's Sprint,NA
+99625,Abdul Rehman,M,23,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's 400 metres,NA
+99625,Abdul Rehman,M,23,NA,NA,Pakistan,PAK,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+99626,Abdul Rehman,M,26,195,83,Pakistan,PAK,1964 Summer,1964,Summer,Tokyo,Boxing,Boxing Men's Heavyweight,NA
+73744,Abdul Reza Majdpour,M,23,178,74,Iran,IRI,1976 Summer,1976,Summer,Montreal,Water Polo,Water Polo Men's Water Polo,NA
+1843,Abdul Ridha Al-Boloushi,M,23,NA,NA,Kuwait,KUW,1996 Summer,1996,Summer,Atlanta,Handball,Handball Men's Handball,NA
+6323,Abdul Shacour Azimi,M,NA,NA,NA,Afghanistan,AFG,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+118993,Abdul Tebazalwa,M,20,162,54,Uganda,UGA,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Bantamweight,NA
+3445,Abdul Wahab Aminu,M,24,210,102,Nigeria,NGR,2012 Summer,2012,Summer,London,Basketball,Basketball Men's Basketball,NA
+3445,Abdul Wahab Aminu,M,28,210,102,Nigeria,NGR,2016 Summer,2016,Summer,Rio de Janeiro,Basketball,Basketball Men's Basketball,NA
+591,Abdul Wahab Abu Al-Hail Labid,M,27,180,79,Iraq,IRQ,2004 Summer,2004,Summer,Athina,Football,Football Men's Football,NA
+2657,Abdul Wahab Ali,M,30,175,80,Iraq,IRQ,1988 Summer,1988,Summer,Seoul,Table Tennis,Table Tennis Men's Singles,NA
+2128,Abdul Wahab Naser Al-Safra,M,23,171,59,Saudi Arabia,KSA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 1500 metres,NA
+133698,Abdul Wahab Zahiri,M,24,175,68,Afghanistan,AFG,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,NA
+59134,Abdul Waheed Khan,M,23,174,60,Pakistan,PAK,1960 Summer,1960,Summer,Roma,Hockey,Hockey Men's Hockey,Gold
+6327,Abdul Wahid Aziz,M,NA,174,67,Iraq,IRQ,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Lightweight,Bronze
+78538,Abdulah Memedi,M,28,172,78,Yugoslavia,YUG,1980 Summer,1980,Summer,Moskva,Wrestling,Wrestling Men's Middleweight Freestyle,NA
+2161,Abdulaziz Al-Shatti,M,25,NA,NA,Individual Olympic Athletes,IOA,2016 Summer,2016,Summer,Rio de Janeiro,Fencing,Fencing Men's epee Individual,NA
+51210,Abdulaziz Hussain Haykal Mubarak Al-Balooshi,M,21,178,66,United Arab Emirates,UAE,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+65779,Abdulaziz Ladan Mohammed,M,21,180,61,Saudi Arabia,KSA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,NA
+53722,Abdulieh Janneh,M,22,167,50,Gambia,GAM,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 100 metres,NA
+53722,Abdulieh Janneh,M,22,167,50,Gambia,GAM,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+109251,Abdulkhakim Alibekovich Shapiyev,M,28,174,74,Kazakhstan,KAZ,2012 Summer,2012,Summer,London,Wrestling,Wrestling Men's Middleweight Freestyle,NA
+80935,Abdulla Mohamed Hussein,M,16,170,54,Somalia,SOM,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 400 metres,NA
+1978,Abdullah Abdulaziz Al-Joud,M,37,178,60,Saudi Arabia,KSA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 5000 metres,NA
+2100,Abdullah Abdulrahman Al-Qenai,M,NA,170,87,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Handball,Handball Men's Handball,NA
+342,Abdullah Abdulrahman Zeyab,M,16,177,NA,Kuwait,KUW,1972 Summer,1972,Summer,Munich,Swimming,Swimming Men's 100 metres Freestyle,NA
+77043,Abdullah Abdulrazaq Mayouf,M,20,NA,NA,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Diving,Diving Men's Platform,NA
+80949,Abdullah Abkar Mohammed,M,19,172,73,Saudi Arabia,KSA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,NA
+615,Abdullah Abuqrais,M,25,163,65,Kuwait,KUW,1984 Summer,1984,Summer,Los Angeles,Diving,Diving Men's Springboard,NA
+615,Abdullah Abuqrais,M,25,163,65,Kuwait,KUW,1984 Summer,1984,Summer,Los Angeles,Diving,Diving Men's Platform,NA
+1908,Abdullah Al-Garni,M,19,NA,NA,Saudi Arabia,KSA,1996 Summer,1996,Summer,Atlanta,Football,Football Men's Football,NA
+1918,Abdullah Al-Ghrbi,M,23,167,72,North Yemen,YAR,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Welterweight Freestyle,NA
+2658,Abdullah Ali,M,28,NA,NA,Egypt,EGY,1964 Summer,1964,Summer,Tokyo,Rowing,Rowing Men's Coxed Pairs,NA
+2658,Abdullah Ali,M,28,NA,NA,Egypt,EGY,1964 Summer,1964,Summer,Tokyo,Rowing,Rowing Men's Coxed Fours,NA
+2659,Abdullah Ali,M,NA,175,80,Bahrain,BRN,1984 Summer,1984,Summer,Los Angeles,Shooting,Shooting Men's Small-Bore Rifle Prone 50 metres,NA
+1384,Abdullah Ali Ahmed,M,26,181,73,Libya,LBA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 200 metres,NA
+1384,Abdullah Ali Ahmed,M,26,181,73,Libya,LBA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 400 metres,NA
+1969,Abdullah Al-Izani,M,27,NA,NA,Yemen,YEM,1996 Summer,1996,Summer,Atlanta,Wrestling,Wrestling Men's Light-Flyweight Greco-Roman,NA
+2112,Abdullah Al-Rashidi,M,32,183,83,Kuwait,KUW,1996 Summer,1996,Summer,Atlanta,Shooting,Shooting Men's Skeet,NA
+2112,Abdullah Al-Rashidi,M,37,183,83,Kuwait,KUW,2000 Summer,2000,Summer,Sydney,Shooting,Shooting Men's Skeet,NA
+2112,Abdullah Al-Rashidi,M,40,183,83,Kuwait,KUW,2004 Summer,2004,Summer,Athina,Shooting,Shooting Men's Skeet,NA
+2112,Abdullah Al-Rashidi,M,44,183,83,Kuwait,KUW,2008 Summer,2008,Summer,Beijing,Shooting,Shooting Men's Skeet,NA
+2112,Abdullah Al-Rashidi,M,48,183,83,Kuwait,KUW,2012 Summer,2012,Summer,London,Shooting,Shooting Men's Skeet,NA
+2112,Abdullah Al-Rashidi,M,52,183,83,Individual Olympic Athletes,IOA,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,Shooting Men's Skeet,Bronze
+2153,Abdullah Al-Shamsi,M,20,165,70,North Yemen,YAR,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling Men's Lightweight Greco-Roman,NA
+2162,Abdullah Al-Shaye,M,NA,NA,NA,Saudi Arabia,KSA,1984 Summer,1984,Summer,Los Angeles,Cycling,Cycling Men's Road Race Individual,NA
+2142,Abdullah Al-Waked Al-Shahrani,M,20,NA,NA,Saudi Arabia,KSA,1996 Summer,1996,Summer,Atlanta,Football,Football Men's Football,NA
+1778,Abdullah Azzan Al-Akbary,M,18,183,70,Oman,OMA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+6704,Abdullah Badri,M,NA,NA,NA,Libya,LBA,1988 Summer,1988,Summer,Seoul,Cycling,Cycling Men's Road Race Individual,NA
+1766,Abdullah Basheer Al-Abdullah,M,20,NA,NA,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Football,Football Men's Football,NA
+9920,Abdullah Ben Sad,M,23,165,55,France,FRA,1948 Summer,1948,Summer,London,Athletics,Athletics Men's 10000 metres,NA
+76178,Abdullah Faraj Masoud,M,19,166,60,Saudi Arabia,KSA,1984 Summer,1984,Summer,Los Angeles,Football,Football Men's Football,NA
+7056,Abdullah Hel Baki,M,27,170,82,Bangladesh,BAN,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,Shooting Men's Air Rifle 10 metres,NA
+1864,Abdullah Hussein Al-Dosari,M,23,165,54,Bahrain,BRN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 3000 metres Steeplechase,NA
+1864,Abdullah Hussein Al-Dosari,M,27,165,54,Bahrain,BRN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 5000 metres,NA
+1864,Abdullah Hussein Al-Dosari,M,27,165,54,Bahrain,BRN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 10000 metres,NA
+53934,Abdullah Jaroudi Jr.,M,22,170,85,Lebanon,LIB,1960 Summer,1960,Summer,Roma,Shooting,Shooting Men's Small-Bore Rifle Prone 50 metres,NA
+53935,Abdullah Jaroudi Sr.,M,NA,NA,NA,Lebanon,LIB,1952 Summer,1952,Summer,Helsinki,Shooting,Shooting Men's Small-Bore Rifle Prone 50 metres,NA
+40056,Abdullah Kanbar Sabt Ghulam,M,17,165,60,United Arab Emirates,UAE,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 400 metres Hurdles,NA
+59135,Abdullah Khan,M,NA,NA,NA,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 400 metres,NA
+59135,Abdullah Khan,M,NA,NA,NA,Pakistan,PAK,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 800 metres,NA
+59334,Abdullah Khodabandeh,M,28,164,57,Iran,IRI,1964 Summer,1964,Summer,Tokyo,Wrestling,Wrestling Men's Bantamweight Freestyle,NA
+2164,Abdullah Mohamed Al-Sheib,M,23,181,77,Qatar,QAT,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Long Jump,NA
+2164,Abdullah Mohamed Al-Sheib,M,27,181,77,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's High Jump,NA
+2164,Abdullah Mohamed Al-Sheib,M,27,181,77,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Long Jump,NA
+1789,Abdullah Mohamed Amer Al-Anbari,M,22,170,60,Oman,OMA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,NA
+1846,Abdullah Mohammad Al-Buloshi,M,20,176,72,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Football,Football Men's Football,NA
+2190,Abdullah Mohsin Al-Usaimi,M,NA,180,73,Saudi Arabia,KSA,1984 Summer,1984,Summer,Los Angeles,Shooting,Shooting Men's Small-Bore Rifle Prone 50 metres,NA
+82687,Abdullah Movahed Ardabili,M,24,172,68,Iran,IRI,1964 Summer,1964,Summer,Tokyo,Wrestling,Wrestling Men's Lightweight Freestyle,NA
+82687,Abdullah Movahed Ardabili,M,28,172,68,Iran,IRI,1968 Summer,1968,Summer,Mexico City,Wrestling,Wrestling Men's Lightweight Freestyle,Gold
+82687,Abdullah Movahed Ardabili,M,32,172,68,Iran,IRI,1972 Summer,1972,Summer,Munich,Wrestling,Wrestling Men's Lightweight Freestyle,NA
+83701,Abdullah Mussa,M,27,NA,88,Libya,LBA,1988 Summer,1988,Summer,Seoul,Weightlifting,Weightlifting Men's Middle-Heavyweight,NA
+84445,Abdullah Namat,M,27,NA,NA,Malaysia,MAS,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+2199,Abdullah Naser Ali Al-Zawayed,M,19,NA,NA,Saudi Arabia,KSA,1984 Summer,1984,Summer,Los Angeles,Fencing,Fencing Men's Foil Individual,NA
+128868,Abdullah Noor Wasughe,M,24,181,69,Somalia,SOM,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's High Jump,NA
+89956,Abdullah Othman,M,27,NA,NA,Malaysia,MAS,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+98341,Abdullah Rahim,M,24,NA,NA,Malaysia,MAS,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+98561,Abdullah Ramadan Suliman,M,21,180,71,Sudan,SUD,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Middleweight,NA
+2019,Abdullah Roaei Al-Mabrouk,M,19,167,55,Saudi Arabia,KSA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 5000 metres,NA
+2171,Abdullah Said Al-Sooli,M,25,172,73,Oman,OMA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 100 metres,NA
+104367,Abdullah Saihan,M,21,174,66,Kuwait,KUW,1992 Summer,1992,Summer,Barcelona,Football,Football Men's Football,NA
+104367,Abdullah Saihan,M,29,174,66,Kuwait,KUW,2000 Summer,2000,Summer,Sydney,Football,Football Men's Football,NA
+1994,Abdullah Salem Al-Khalidi,M,30,170,66,Oman,OMA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 100 metres,NA
+1994,Abdullah Salem Al-Khalidi,M,30,170,66,Oman,OMA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 200 metres,NA
+1994,Abdullah Salem Al-Khalidi,M,30,170,66,Oman,OMA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+1994,Abdullah Salem Al-Khalidi,M,34,170,66,Oman,OMA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 200 metres,NA
+1830,Abdullah Salim Al-Barwani,M,NA,161,65,Oman,OMA,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Welterweight,NA
+1964,Abdullah Salim Saif Al-Hussini,M,NA,163,65,Oman,OMA,1984 Summer,1984,Summer,Los Angeles,Shooting,Shooting Men's Rapid-Fire Pistol 25 metres,NA
+106378,Abdullah Sayedi,M,22,163,63,Iran,IRI,1964 Summer,1964,Summer,Tokyo,Football,Football Men's Football,NA
+109134,Abdullah Shahar-ud-Din,M,23,NA,NA,Malaysia,MAS,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+1779,Abdullah Sulaiman Al-Akbary,M,23,180,75,Oman,OMA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 100 metres,NA
+1779,Abdullah Sulaiman Al-Akbary,M,23,180,75,Oman,OMA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+135361,Abdullah Sulaiman Zubromawi,M,22,176,NA,Saudi Arabia,KSA,1996 Summer,1996,Summer,Atlanta,Football,Football Men's Football,NA
+116386,Abdullah Sultan,M,19,NA,NA,United Arab Emirates,UAE,1992 Summer,1992,Summer,Barcelona,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,NA
+116386,Abdullah Sultan,M,19,NA,NA,United Arab Emirates,UAE,1992 Summer,1992,Summer,Barcelona,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,NA
+116386,Abdullah Sultan,M,19,NA,NA,United Arab Emirates,UAE,1992 Summer,1992,Summer,Barcelona,Swimming,Swimming Men's 100 metres Backstroke,NA
+116386,Abdullah Sultan,M,19,NA,NA,United Arab Emirates,UAE,1992 Summer,1992,Summer,Barcelona,Swimming,Swimming Men's 200 metres Backstroke,NA
+118961,Abdullah Tazi,M,NA,166,62,Morocco,MAR,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+119396,Abdullah Tetengi,M,19,174,65,Nigeria,NGR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+123594,Abdullah Ustaoglu,M,34,163,63,Germany,GER,2004 Summer,2004,Summer,Athina,Shooting,Shooting Men's Air Pistol 10 metres,NA
+123594,Abdullah Ustaoglu,M,34,163,63,Germany,GER,2004 Summer,2004,Summer,Athina,Shooting,Shooting Men's Free Pistol 50 metres,NA
+109270,Abdullah Waleed Al-Sharbatly,M,29,NA,NA,Saudi Arabia,KSA,2012 Summer,2012,Summer,London,Equestrianism,Equestrianism Mixed Jumping Individual,NA
+109270,Abdullah Waleed Al-Sharbatly,M,29,NA,NA,Saudi Arabia,KSA,2012 Summer,2012,Summer,London,Equestrianism,Equestrianism Mixed Jumping Team,Bronze
+132973,Abdullah Ylmaz,M,26,180,75,Turkey,TUR,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+132973,Abdullah Ylmaz,M,26,180,75,Turkey,TUR,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+132973,Abdullah Ylmaz,M,30,180,75,Turkey,TUR,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+109475,Abdullahi Shehu,M,23,170,72,Nigeria,NGR,2016 Summer,2016,Summer,Rio de Janeiro,Football,Football Men's Football,Bronze
+118449,Abdullo Tovashevich Tangriyev,M,19,190,132,Uzbekistan,UZB,2000 Summer,2000,Summer,Sydney,Judo,Judo Men's Heavyweight,NA
+118449,Abdullo Tovashevich Tangriyev,M,23,190,132,Uzbekistan,UZB,2004 Summer,2004,Summer,Athina,Judo,Judo Men's Heavyweight,NA
+118449,Abdullo Tovashevich Tangriyev,M,27,190,132,Uzbekistan,UZB,2008 Summer,2008,Summer,Beijing,Judo,Judo Men's Heavyweight,Silver
+118449,Abdullo Tovashevich Tangriyev,M,35,190,132,Uzbekistan,UZB,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Heavyweight,NA
+105783,Abdulqader Hikmat A. Sarhan,M,20,180,80,Qatar,QAT,2008 Summer,2008,Summer,Beijing,Taekwondo,Taekwondo Men's Welterweight,NA
+335,Abdulqdir Abdullayev,M,28,188,91,Azerbaijan,AZE,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Heavyweight,NA
+1897,Abdulrahman Al-Faihan,M,30,NA,NA,Individual Olympic Athletes,IOA,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,Shooting Men's Trap,NA
+104166,Abdul-Rashid Bulayevich Sadulayev,M,20,177,86,Russia,RUS,2016 Summer,2016,Summer,Rio de Janeiro,Wrestling,Wrestling Men's Light-Heavyweight Freestyle,Gold
+83403,Abdulrazzaq Murad,M,26,186,77,Qatar,QAT,2016 Summer,2016,Summer,Rio de Janeiro,Handball,Handball Men's Handball,NA
+1905,Abdulsalam Al-Gadabi,M,30,NA,NA,Yemen,YEM,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 50 metres Freestyle,NA
+129685,Abdulwahab Werfeli,M,NA,178,71,Libya,LBA,1980 Summer,1980,Summer,Moskva,Swimming,Swimming Men's 100 metres Freestyle,NA
+2660,Abdurahman Ali,M,21,NA,NA,Philippines,PHI,1932 Summer,1932,Summer,Los Angeles,Swimming,Swimming Men's 100 metres Freestyle,NA
+53448,Abdurahman Jallow,M,NA,180,70,Gambia,GAM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+65422,Abdurrahim Kuzu,M,28,165,62,United States,USA,1984 Summer,1984,Summer,Los Angeles,Wrestling,Wrestling Men's Featherweight Greco-Roman,NA
+64614,Abdurrahman Kk,M,21,NA,NA,Turkey,TUR,1964 Winter,1964,Winter,Innsbruck,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+64614,Abdurrahman Kk,M,21,NA,NA,Turkey,TUR,1964 Winter,1964,Winter,Innsbruck,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+39911,Abdusalam Hala Gezah,F,22,169,55,Libya,LBA,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 100 metres,NA
+37851,Abdusalam Mamatkhanovich Gadisov,M,23,178,84,Russia,RUS,2012 Summer,2012,Summer,London,Wrestling,Wrestling Men's Heavyweight Freestyle,NA
+68737,Abe Lenstra,M,27,NA,NA,Netherlands,NED,1948 Summer,1948,Summer,London,Football,Football Men's Football,NA
+4961,Abeba Aregawi Gebretsadik,F,22,170,52,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 1500 metres,NA
+11467,Abebe Bikila,M,28,177,57,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Marathon,Gold
+11467,Abebe Bikila,M,32,177,57,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's Marathon,Gold
+11467,Abebe Bikila,M,36,177,57,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's Marathon,NA
+39862,Abebe Gessese,M,26,178,60,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Long Jump,NA
+44822,Abebe Hailou,M,23,NA,NA,Ethiopia,ETH,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 100 metres,NA
+44822,Abebe Hailou,M,23,NA,NA,Ethiopia,ETH,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 200 metres,NA
+44822,Abebe Hailou,M,23,NA,NA,Ethiopia,ETH,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 400 metres,NA
+44822,Abebe Hailou,M,23,NA,NA,Ethiopia,ETH,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 4 x 100 metres Relay,NA
+44822,Abebe Hailou,M,23,NA,NA,Ethiopia,ETH,1956 Summer,1956,Summer,Melbourne,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+78355,Abebe Mekonnen,M,24,165,58,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Boxing,Boxing Men's Lightweight,NA
+78356,Abebe Mekonnen,M,28,167,62,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,NA
+78356,Abebe Mekonnen,M,32,167,62,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,NA
+128006,Abebe Wakgira,M,38,171,55,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Marathon,NA
+134372,Abebe Zerihun,M,25,167,52,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,NA
+85104,Abebech Negussie,F,17,155,42,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 1500 metres,NA
+76471,Abednego Matilu,M,23,175,73,Kenya,KEN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,NA
+33260,Abeer Essawy,F,17,163,57,Egypt,EGY,2004 Summer,2004,Summer,Athina,Taekwondo,Taekwondo Women's Featherweight,NA
+53085,Abeiku Gyekye Jackson,M,16,NA,NA,Ghana,GHA,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,NA
+9504,Abel Bekker,M,25,170,57,Rhodesia,RHO,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Featherweight,NA
+1075,Abel Aferalign,M,20,169,54,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Bantamweight,NA
+4543,Abel Antn Rodrigo,M,25,178,61,Spain,ESP,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 5000 metres,NA
+4543,Abel Antn Rodrigo,M,29,178,61,Spain,ESP,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 5000 metres,NA
+4543,Abel Antn Rodrigo,M,33,178,61,Spain,ESP,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 10000 metres,NA
+4543,Abel Antn Rodrigo,M,37,178,61,Spain,ESP,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,NA
+388,Abel Carlos da Silva Braga,M,19,190,73,Brazil,BRA,1972 Summer,1972,Summer,Munich,Football,Football Men's Football,NA
+20770,Abel Chimukoko,M,31,186,70,Zimbabwe,ZIM,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's Marathon,NA
+2955,Abel Csar Almaraz,M,22,152,54,Argentina,ARG,1964 Summer,1964,Summer,Tokyo,Boxing,Boxing Men's Bantamweight,NA
+30033,Abel Driggs Santos,M,28,170,74,Cuba,CUB,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Men's Individual All-Around,NA
+30033,Abel Driggs Santos,M,28,170,74,Cuba,CUB,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Men's Floor Exercise,NA
+30033,Abel Driggs Santos,M,28,170,74,Cuba,CUB,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Men's Horse Vault,NA
+30033,Abel Driggs Santos,M,28,170,74,Cuba,CUB,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Men's Parallel Bars,NA
+30033,Abel Driggs Santos,M,28,170,74,Cuba,CUB,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Men's Horizontal Bar,NA
+30033,Abel Driggs Santos,M,28,170,74,Cuba,CUB,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Men's Rings,NA
+30033,Abel Driggs Santos,M,28,170,74,Cuba,CUB,2004 Summer,2004,Summer,Athina,Gymnastics,Gymnastics Men's Pommelled Horse,NA
+83742,Abel Kiprop Mutai,M,23,187,73,Kenya,KEN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 3000 metres Steeplechase,Bronze
+60779,Abel Kirui,M,30,177,62,Kenya,KEN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,Silver
+71314,Abel Lpez Arozarena,M,21,170,83,Cuba,CUB,1968 Summer,1968,Summer,Mexico City,Weightlifting,Weightlifting Men's Middleweight,NA
+71314,Abel Lpez Arozarena,M,25,170,83,Cuba,CUB,1972 Summer,1972,Summer,Munich,Weightlifting,Weightlifting Men's Light-Heavyweight,NA
+47978,Abel Mathas Hernndez Platero,M,21,185,73,Uruguay,URU,2012 Summer,2012,Summer,London,Football,Football Men's Football,NA
+83314,Abel Muoz,M,16,174,60,El Salvador,ESA,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Men's 100 metres Breaststroke,NA
+83314,Abel Muoz,M,16,174,60,El Salvador,ESA,1968 Summer,1968,Summer,Mexico City,Swimming,Swimming Men's 200 metres Breaststroke,NA
+84920,Abel Ndenguet,M,26,NA,NA,Congo (Brazzaville),CGO,1996 Summer,1996,Summer,Atlanta,Judo,Judo Men's Middleweight,NA
+86635,Abel Nkhoma,M,NA,188,57,Zimbabwe,ZIM,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Marathon,NA
+89567,Abel Ortz,M,NA,NA,NA,Argentina,ARG,1948 Summer,1948,Summer,London,Shooting,Shooting Men's Free Rifle Three Positions 300 metres,NA
+67070,Abel Ricardo Laudonio,M,18,168,60,Argentina,ARG,1956 Summer,1956,Summer,Melbourne,Boxing,Boxing Men's Flyweight,NA
+67070,Abel Ricardo Laudonio,M,21,168,60,Argentina,ARG,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Lightweight,Bronze
+60954,Abel Richard Kiviat,M,19,172,66,United States,USA,1912 Summer,1912,Summer,Stockholm,Athletics,Athletics Men's 1500 metres,Silver
+60954,Abel Richard Kiviat,M,19,172,66,United States,USA,1912 Summer,1912,Summer,Stockholm,Athletics,Athletics Men's 3000 metres Team,Gold
+105824,Abel Sarmientos Bios,M,30,NA,NA,Cuba,CUB,1992 Summer,1992,Summer,Barcelona,Volleyball,Volleyball Men's Volleyball,NA
+81058,Abel Slanang Mokibe,M,27,NA,NA,South Africa,RSA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,NA
+105130,Abel Snchez Vargas,M,28,168,64,Peru,PER,2000 Summer,2000,Summer,Sydney,Diving,Diving Men's Springboard,NA
+105130,Abel Snchez Vargas,M,28,168,64,Peru,PER,2000 Summer,2000,Summer,Sydney,Diving,Diving Men's Platform,NA
+87587,Abel Tshaka Tshakile Nzimande,M,30,178,66,South Africa,RSA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 200 metres,NA
+125567,Abel Vzquez Raa,M,23,165,77,Mexico,MEX,1964 Summer,1964,Summer,Tokyo,Shooting,Shooting Men's Small-Bore Rifle Three Positions 50 metres,NA
+117616,Abelardo Andrs Sztrum,M,22,182,80,Argentina,ARG,1996 Summer,1996,Summer,Atlanta,Canoeing,Canoeing Men's Kayak Singles 1000 metres,NA
+117616,Abelardo Andrs Sztrum,M,22,182,80,Argentina,ARG,1996 Summer,1996,Summer,Atlanta,Canoeing,Canoeing Men's Kayak Doubles 1000 metres,NA
+117616,Abelardo Andrs Sztrum,M,26,182,80,Argentina,ARG,2000 Summer,2000,Summer,Sydney,Canoeing,Canoeing Men's Kayak Doubles 1000 metres,NA
+18982,Abelardo Castro Ramrez,M,NA,NA,NA,Chile,CHI,1928 Summer,1928,Summer,Amsterdam,Fencing,Fencing Men's Sabre Individual,NA
+18982,Abelardo Castro Ramrez,M,NA,NA,NA,Chile,CHI,1928 Summer,1928,Summer,Amsterdam,Fencing,Fencing Men's Sabre Team,NA
+24218,Abelardo Cuevas Rodrguez,M,NA,NA,NA,Cuba,CUB,1932 Summer,1932,Summer,Los Angeles,Art Competitions,Art Competitions Mixed Music,NA
+401,Abelardo Fernndez Antua,M,22,NA,NA,Spain,ESP,1992 Summer,1992,Summer,Barcelona,Football,Football Men's Football,Gold
+78681,Abelardo Menndez Orue,M,23,173,76,Cuba,CUB,1952 Summer,1952,Summer,Helsinki,Fencing,Fencing Men's Foil Individual,NA
+78681,Abelardo Menndez Orue,M,23,173,76,Cuba,CUB,1952 Summer,1952,Summer,Helsinki,Fencing,Fencing Men's epee Individual,NA
+78681,Abelardo Menndez Orue,M,31,173,76,Cuba,CUB,1960 Summer,1960,Summer,Roma,Fencing,Fencing Men's epee Individual,NA
+88782,Abelardo Olivier,M,30,NA,NA,Italy,ITA,1908 Summer,1908,Summer,London,Fencing,Fencing Men's epee Team,NA
+88782,Abelardo Olivier,M,30,NA,NA,Italy,ITA,1908 Summer,1908,Summer,London,Fencing,Fencing Men's Sabre Team,Silver
+88782,Abelardo Olivier,M,42,NA,NA,Italy,ITA,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's Foil Individual,NA
+88782,Abelardo Olivier,M,42,NA,NA,Italy,ITA,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's Foil Team,Gold
+88782,Abelardo Olivier,M,42,NA,NA,Italy,ITA,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's epee Individual,NA
+88782,Abelardo Olivier,M,42,NA,NA,Italy,ITA,1920 Summer,1920,Summer,Antwerpen,Fencing,Fencing Men's epee Team,Gold
+100641,Abelardo Rico,M,NA,NA,NA,Argentina,ARG,1924 Summer,1924,Summer,Paris,Shooting,Shooting Men's Small-Bore Rifle Prone 50 metres,NA
+100953,Abelardo Ros Osorio,M,24,161,63,Colombia,COL,1976 Summer,1976,Summer,Montreal,Cycling,Cycling Men's Road Race Individual,NA
+28043,Abha Dhillan,F,38,NA,NA,India,IND,1992 Summer,1992,Summer,Barcelona,Shooting,Shooting Women's Air Pistol 10 metres,NA
+11601,Abhinav Bindra,M,17,173,70,India,IND,2000 Summer,2000,Summer,Sydney,Shooting,Shooting Men's Air Rifle 10 metres,NA
+11601,Abhinav Bindra,M,21,173,70,India,IND,2004 Summer,2004,Summer,Athina,Shooting,Shooting Men's Air Rifle 10 metres,NA
+11601,Abhinav Bindra,M,25,173,70,India,IND,2008 Summer,2008,Summer,Beijing,Shooting,Shooting Men's Air Rifle 10 metres,Gold
+11601,Abhinav Bindra,M,29,173,70,India,IND,2012 Summer,2012,Summer,London,Shooting,Shooting Men's Air Rifle 10 metres,NA
+11601,Abhinav Bindra,M,33,173,70,India,IND,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,Shooting Men's Air Rifle 10 metres,NA
+43990,Abhinn Shyam Gupta,M,24,172,68,India,IND,2004 Summer,2004,Summer,Athina,Badminton,Badminton Men's Singles,NA
+109065,Abidnasir Shabab,M,22,NA,NA,Jordan,JOR,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Welterweight,NA
+118663,Abigael Tarus,F,21,175,66,Kenya,KEN,2004 Summer,2004,Summer,Athina,Volleyball,Volleyball Women's Volleyball,NA
+24584,Abigail D'Agostino,F,24,160,50,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 5000 metres,NA
+15461,Abigail Brown,F,20,176,71,Great Britain,GBR,2016 Summer,2016,Summer,Rio de Janeiro,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,NA
+35568,Abigail E. Fisher (-Gould),F,18,167,55,United States,USA,1976 Winter,1976,Winter,Innsbruck,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+35568,Abigail E. Fisher (-Gould),F,22,167,55,United States,USA,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+49112,Abigail Golda Hoffman,F,17,175,57,Canada,CAN,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Women's 400 metres,NA
+49112,Abigail Golda Hoffman,F,17,175,57,Canada,CAN,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Women's 800 metres,NA
+49112,Abigail Golda Hoffman,F,21,175,57,Canada,CAN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Women's 800 metres,NA
+49112,Abigail Golda Hoffman,F,25,175,57,Canada,CAN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Women's 800 metres,NA
+49112,Abigail Golda Hoffman,F,29,175,57,Canada,CAN,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Women's 800 metres,NA
+66851,Abigail Jean Larson,F,26,170,50,United States,USA,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+66851,Abigail Jean Larson,F,26,170,50,United States,USA,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Women's 30 kilometres,NA
+66851,Abigail Jean Larson,F,26,170,50,United States,USA,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Women's 15 km Skiathlon,NA
+92569,Abigail Knickerbocker Peck,F,27,172,68,United States,USA,1984 Summer,1984,Summer,Los Angeles,Rowing,Rowing Women's Coxed Fours,NA
+92569,Abigail Knickerbocker Peck,F,31,172,68,United States,USA,1988 Summer,1988,Summer,Seoul,Rowing,Rowing Women's Coxed Eights,NA
+55498,Abigail Louise Johnston,F,22,165,61,United States,USA,2012 Summer,2012,Summer,London,Diving,Diving Women's Synchronized Springboard,Silver
+55498,Abigail Louise Johnston,F,26,165,61,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Diving,Diving Women's Springboard,NA
+31430,Abigail Susan E. Edmonds,F,21,172,70,Great Britain,GBR,2012 Summer,2012,Summer,London,Canoeing,Canoeing Women's Kayak Doubles 500 metres,NA
+55853,Abigl Jo,F,21,183,76,Hungary,HUN,2012 Summer,2012,Summer,London,Judo,Judo Women's Half-Heavyweight,NA
+55853,Abigl Jo,F,25,183,76,Hungary,HUN,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Women's Half-Heavyweight,NA
+51531,Abil Ibragimov,M,19,160,58,Kazakhstan,KAZ,2000 Summer,2000,Summer,Sydney,Wrestling,Wrestling Men's Featherweight Freestyle,NA
+102523,Abimael Rosario Marrero,M,26,170,70,Puerto Rico,PUR,1992 Summer,1992,Summer,Barcelona,Baseball,Baseball Men's Baseball,NA
+90273,Abiodun Adesola Oyepitan,F,24,165,55,Great Britain,GBR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's 100 metres,NA
+90273,Abiodun Adesola Oyepitan,F,24,165,55,Great Britain,GBR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's 200 metres,NA
+90273,Abiodun Adesola Oyepitan,F,32,165,55,Great Britain,GBR,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 100 metres,NA
+90273,Abiodun Adesola Oyepitan,F,32,165,55,Great Britain,GBR,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 200 metres,NA
+87688,Abiodun Olugbemiga Obafemi,M,22,182,77,Nigeria,NGR,1996 Summer,1996,Summer,Atlanta,Football,Football Men's Football,Gold
+88035,Abiola Olawunmi Odumosu,F,18,NA,NA,Nigeria,NGR,1992 Summer,1992,Summer,Barcelona,Table Tennis,Table Tennis Women's Singles,NA
+88035,Abiola Olawunmi Odumosu,F,18,NA,NA,Nigeria,NGR,1992 Summer,1992,Summer,Barcelona,Table Tennis,Table Tennis Women's Doubles,NA
+343,Abir Abdulrahman Khalil Mahmoud Khalil,F,16,162,72,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,NA
+343,Abir Abdulrahman Khalil Mahmoud Khalil,F,20,162,72,Egypt,EGY,2012 Summer,2012,Summer,London,Weightlifting,Weightlifting Women's Heavyweight,NA
+134903,Ablaykhan Kayratovich Zhusupov,M,19,175,64,Kazakhstan,KAZ,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,NA
+17157,Ablio Almeida Cabral,M,20,169,57,Angola,ANG,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Featherweight,NA
+14627,Ablio Antnio Gonalves Brando,M,NA,NA,NA,Portugal,POR,1948 Summer,1948,Summer,London,Shooting,Shooting Men's Small-Bore Rifle Prone 50 metres,NA
+126335,Abner Chapin Vickery,M,24,NA,NA,United States,USA,1904 Summer,1904,Summer,St. Louis,Golf,Golf Men's Individual,NA
+74933,Abner Mares Martnez,M,18,164,54,Mexico,MEX,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Bantamweight,NA
+109962,Abock Shoak,M,NA,NA,NA,Sudan,SUD,1984 Summer,1984,Summer,Los Angeles,Boxing,Boxing Men's Welterweight,NA
+4619,Abolfazl Anvari,M,30,195,105,Iran,IRI,1968 Summer,1968,Summer,Mexico City,Wrestling,Wrestling Men's Heavyweight Freestyle,NA
+4619,Abolfazl Anvari,M,34,195,105,Iran,IRI,1972 Summer,1972,Summer,Munich,Wrestling,Wrestling Men's Heavyweight Freestyle,NA
+104585,Abolfazl Salabi,M,NA,NA,NA,Iran,IRI,1948 Summer,1948,Summer,London,Basketball,Basketball Men's Basketball,NA
+9137,Abou Rejaile Bechara,M,NA,NA,NA,Lebanon,LIB,1948 Summer,1948,Summer,London,Wrestling,Wrestling Men's Lightweight Freestyle,NA
